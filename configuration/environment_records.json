@@ -1,0 +1,35 @@
+{
+  "historical_CPU_replay": {
+    "python": "3.11.9",
+    "torch": "2.7.1",
+    "device": "CPU"
+  },
+  "historical_molecular_capture": {
+    "python": "3.11.9",
+    "torch": "2.7.1+cu126",
+    "numpy": "2.4.6",
+    "GPU": "RTX3060LaptopGPU",
+    "CPU_threads": 4,
+    "TF32": false
+  },
+  "native_N20_capture": {
+    "torch": "2.9.0+cu128",
+    "GPU": "RTX3090",
+    "seeds": [
+      100,
+      101,
+      102
+    ],
+    "epochs": 100,
+    "updates_per_fit": 1900,
+    "batch_size": 256,
+    "optimizer": "AdamW",
+    "lr": 0.001,
+    "weight_decay": 0.0001,
+    "clip_norm": 10,
+    "cosine_epochs": 100
+  },
+  "current_ML_installation_import_or_runtime_validated": false,
+  "new_publication_checks": "Standard-library source identities,AST and command-plan utility only",
+  "original_requirements_preserved": true
+}

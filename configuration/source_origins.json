@@ -1,0 +1,3211 @@
+{
+  "scope": "Copied-source identities/provenance, not execution validation",
+  "historical_public_release": "https://github.com/brite0703/latent-mobius-attention/releases/tag/v2026.09.16",
+  "files": [
+    {
+      "path": "scientific_sources/verify_files.py",
+      "bytes": 1451,
+      "sha256": "3513ffb34599491de42084f3f7093a6f5b6020b5220a94bc2a8ff0e10f8e284a",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "verify_files.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/LMA/pdbbind_tensors_experiment.py",
+      "bytes": 15798,
+      "sha256": "8117371135cd1e8f1aecdbff430169779129b6a8f84d320aef3c8056b503d22f",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/dependency_snapshot/pdbbind_tensors_experiment.py",
+        "units/fixed_residual/bundle/frozen/pdbbind_tensors_experiment.py",
+        "units/fresh_training_completed/frozen/pdbbind_tensors_experiment.py",
+        "units/fresh_training_inputs/frozen/pdbbind_tensors_experiment.py",
+        "units/receptor_replay/bundle/frozen/pdbbind_tensors_experiment.py",
+        "units/retained_diagnostic_sources/LMA/pdbbind_tensors_experiment.py",
+        "units/retained_synthetic/frozen/pdbbind_tensors_experiment.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_diagnostic_sources/verify_package.py",
+      "bytes": 1789,
+      "sha256": "bf3d23cf71d0465a1fcbc75dc6dc7ebce4ef8beae3a0c888da46e80d54754dc1",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/retained_diagnostic_sources/verify_package.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/remaining_molecular/molecular_models.py",
+      "bytes": 6488,
+      "sha256": "c85257aaffbc07b52a58589abbd605c0b228a877c2376832525bb684eceabf19",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/remaining_molecular/molecular_models.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/remaining_molecular/prefit_audit.py",
+      "bytes": 11328,
+      "sha256": "57bfd0b2bab1f4bec59f5280212f7a62d628efe93e800b73b96732c59fc0e0b4",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/remaining_molecular/prefit_audit.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/remaining_molecular/molecular_data.py",
+      "bytes": 4421,
+      "sha256": "d0ba58b9e74c4e852739952546b0a966092b20a86c349d40f61bb48f1f8d1ae9",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/remaining_molecular/molecular_data.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/remaining_molecular/campaign.py",
+      "bytes": 13877,
+      "sha256": "7ebf3bc1927429297e7a232f39baeffb06fca0523947f6c537c1df058e9eec67",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/remaining_molecular/campaign.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/remaining_molecular/analyze.py",
+      "bytes": 31635,
+      "sha256": "d3df6b5eaf5869199a08e5adac45f7471ac244ddd256909fb7fafe6f87240b64",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/remaining_molecular/analyze.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/remaining_molecular/overlap_sensitivity.py",
+      "bytes": 5956,
+      "sha256": "4e6e007edc2fbd124f62234c87b5d190a14681cc11091f1664dbdb1e327db34e",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/remaining_molecular/overlap_sensitivity.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/components_width/arithmetic.py",
+      "bytes": 3630,
+      "sha256": "f617cd73ae392a1071642b8e0de6a3040ec6f6fcc900a901d1be99f6549f8c84",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/components_width/arithmetic.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/components_width/component_models.py",
+      "bytes": 4896,
+      "sha256": "a62706cfadd068f62e61b628a0afaa5d1fbc259f1f177481e60fcb9a57867d12",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/components_width/component_models.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/components_width/fit.py",
+      "bytes": 7583,
+      "sha256": "814fa58d739e7b7a200514b88ede16f874341578297e8c93d7c2a107c1414c89",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/components_width/fit.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/components_width/campaign.py",
+      "bytes": 8334,
+      "sha256": "ebcb913f8eb208949720a173391cf604d328fc5a923ca6196505497aa33420fc",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/components_width/campaign.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/components_width/audit.py",
+      "bytes": 9461,
+      "sha256": "0cfbdf58a81c6b67ef9b78e1a43d67bfda75de28e783c5ac3792480e849cfa47",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/components_width/audit.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/components_width/analyze.py",
+      "bytes": 26833,
+      "sha256": "0192294121abdb0f1e238918228bbdc0c406bf979f48f37841d5c44e220b3b8a",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/components_width/analyze.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/gate_readout/campaign.py",
+      "bytes": 8064,
+      "sha256": "998ffd6eaf312ff4125c5ee583b9cdaa834f1f685daba8ba56f38b7d72cfff33",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/gate_readout/campaign.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/gate_readout/campaign.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/gate_readout/audit.py",
+      "bytes": 8818,
+      "sha256": "635635b4c0145945b0cb8eea74b943ee50be627d548d5ee24a28691317f197e3",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/gate_readout/audit.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/gate_readout/audit.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/gate_readout/gate_models.py",
+      "bytes": 2982,
+      "sha256": "f2cb33b2f00ecb995a31db0b38bca39351d4031dea4018d38aac2763d3510d0b",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/gate_readout/gate_models.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/gate_readout/gate_models.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/gate_readout/analyze.py",
+      "bytes": 18197,
+      "sha256": "4f4be79b03933032d52392a5b4b317f2d9623e956f0a3066632c50c908c47175",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/gate_readout/analyze.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fresh_training_completed/training.py",
+      "bytes": 16856,
+      "sha256": "b44151f682880568f4eafe26fa815d6accb5797ff721233001f2657b135cef47",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fresh_training_completed/training.py",
+        "units/fresh_training_inputs/training.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fresh_training_completed/reference_check.py",
+      "bytes": 12453,
+      "sha256": "790501366e034e812476d0e7f0da406b789a83796b715d4c10992d94b150ab29",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fresh_training_completed/reference_check.py",
+        "units/fresh_training_inputs/reference_check.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/shared_ligand_inputs/build_shared_inputs.py",
+      "bytes": 5047,
+      "sha256": "e2a110d11291d5e753212d9dd0cf0431abb99919bcc45c3e716dbeb718e834a3",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/shared_ligand_inputs/build_shared_inputs.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fresh_training_inputs/training.py",
+      "bytes": 16856,
+      "sha256": "b44151f682880568f4eafe26fa815d6accb5797ff721233001f2657b135cef47",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fresh_training_completed/training.py",
+        "units/fresh_training_inputs/training.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fresh_training_inputs/reference_check.py",
+      "bytes": 12453,
+      "sha256": "790501366e034e812476d0e7f0da406b789a83796b715d4c10992d94b150ab29",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fresh_training_completed/reference_check.py",
+        "units/fresh_training_inputs/reference_check.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_synthetic/replay.py",
+      "bytes": 41997,
+      "sha256": "e5c6f1f4fe94229626a905373a6bd4c21397355040f22c05def12b171a0c9c17",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/receptor_replay/bundle/replay_helpers.py",
+        "units/retained_synthetic/replay.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_synthetic/public_replay.py",
+      "bytes": 44899,
+      "sha256": "0a0ab825208bfebb115c16ab689332658eab7b6873f62c6e61e10a508525fae1",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/retained_synthetic/public_replay.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/core_cardinality_molecular/final_audit.py",
+      "bytes": 7089,
+      "sha256": "0123952d1ff06bfd31ad7911df5aa0addbef2073c1d3ef0a2971f21097555d7a",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/final_audit.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/core_cardinality_molecular/prefit_audit.py",
+      "bytes": 11287,
+      "sha256": "355266fe17c1b4aa8f1ead5cd05ac227941e25635a3b81649d1e6f7b5ef082fe",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/prefit_audit.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/neural_reviewer_study_2026_09_07/prefit_audit.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/core_cardinality_molecular/combine_results.py",
+      "bytes": 13335,
+      "sha256": "035b5d95443c92a0f97c01a1cab46d791941fda1ad21b08a35851d71563ea631",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/combine_results.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/core_cardinality_molecular/encoder_limitation_check.py",
+      "bytes": 2445,
+      "sha256": "628d38b22ab97300b94c1598f5c5dbffb959f49cb156e692a4d51791440d9a44",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/encoder_limitation_check.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/core_cardinality_molecular/models.py",
+      "bytes": 8774,
+      "sha256": "344f10440e7dc2648bc535ffaac3ed8d819b8db23a77b94337faf883ce4e6314",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/models.py",
+        "units/fixed_residual/bundle/frozen/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+        "units/fresh_training_completed/frozen/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+        "units/fresh_training_inputs/frozen/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+        "units/retained_synthetic/frozen/revision_2026/neural_reviewer_study_2026_09_07/models.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/core_cardinality_molecular/summarize.py",
+      "bytes": 15345,
+      "sha256": "8bfde2989967c1b899773741b304deca2e28389354707b11a7bfd317374b7886",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/summarize.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/core_cardinality_molecular/artifact_audit.py",
+      "bytes": 4979,
+      "sha256": "fcccf3bea54edc88d0c107d0c2f068dc843958d0cf5b02d245d47943d9a515be",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/artifact_audit.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/core_cardinality_molecular/profile_models.py",
+      "bytes": 5702,
+      "sha256": "a5c10eb0e2d34da958e55bcf54a31f67f5f565233a47d1a7e7e52d0ffb342103",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/profile_models.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/core_cardinality_molecular/study.py",
+      "bytes": 20338,
+      "sha256": "861f1f841c32a228aa2ce6bcd77324d63575cf61857bf07147bc02cb35108f41",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/study.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/neural_reviewer_study_2026_09_07/study.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/finite_math_replay/replay.py",
+      "bytes": 6768,
+      "sha256": "4094f7489cf575febdc0c954e573660c8b66b5f2f75c2d193aaef56c94385dd3",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/finite_math_replay/replay.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/finite_math_replay/frozen/revision_2026/theory_revision/verify_global_star_budget.py",
+      "bytes": 8178,
+      "sha256": "3c8517ad7d44b8e3cb8ddeba09a258080ed46ebe5b0afb1f58d7aefa8102a080",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/finite_math_replay/frozen/revision_2026/theory_revision/verify_global_star_budget.py",
+        "units/finite_math_replay/runs/20260909T053605952833Z/LMA/revision_2026/theory_revision/verify_global_star_budget.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/finite_math_replay/frozen/revision_2026/theory_revision/verify_star_core_construction.py",
+      "bytes": 5044,
+      "sha256": "6a5e2366a853d3876fbdb2035fcc1b12a074f97d2a6ea4022518de1506f17684",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/finite_math_replay/frozen/revision_2026/theory_revision/verify_star_core_construction.py",
+        "units/finite_math_replay/runs/20260909T053605952833Z/LMA/revision_2026/theory_revision/verify_star_core_construction.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/finite_math_replay/frozen/revision_2026/theory_revision/verify_value_polynomial.py",
+      "bytes": 4628,
+      "sha256": "4896227ab194d76ed86055421528e4d2244e0dfc392111cb6c47c34529daff97",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/finite_math_replay/frozen/revision_2026/theory_revision/verify_value_polynomial.py",
+        "units/finite_math_replay/runs/20260909T053605952833Z/LMA/revision_2026/theory_revision/verify_value_polynomial.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/finite_math_replay/frozen/revision_2026/theory_revision/verify_border_path.py",
+      "bytes": 7306,
+      "sha256": "7c531033fbe432497827c5bb9add63dcc82144e85ce972b09b233180745a67e8",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/finite_math_replay/frozen/revision_2026/theory_revision/verify_border_path.py",
+        "units/finite_math_replay/runs/20260909T053605952833Z/LMA/revision_2026/theory_revision/verify_border_path.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/finite_math_replay/frozen/revision_2026/theory_revision/verify_scope_boundaries.py",
+      "bytes": 6132,
+      "sha256": "9e10a88b42cd384da3434c056583c3965d410277b429610f266f9b954bde8f00",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/finite_math_replay/frozen/revision_2026/theory_revision/verify_scope_boundaries.py",
+        "units/finite_math_replay/runs/20260909T053605952833Z/LMA/revision_2026/theory_revision/verify_scope_boundaries.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/finite_math_replay/frozen/revision_2026/reviewer_completion_2026_09_08/routing_information/exhaustive.py",
+      "bytes": 6515,
+      "sha256": "97d548a7d2db37a1814ce498678da2dac9450265691c18d2d99ec9bf479f8b22",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/finite_math_replay/frozen/revision_2026/reviewer_completion_2026_09_08/routing_information/exhaustive.py",
+        "units/finite_math_replay/runs/20260909T053605952833Z/LMA/revision_2026/reviewer_completion_2026_09_08/routing_information/exhaustive.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/finite_math_replay/frozen/revision_2026/reviewer_completion_2026_09_08/theory_originality/operational_followup_20260909/verify_operational_identities.py",
+      "bytes": 8086,
+      "sha256": "a1249eee207cd1b3498d77d2c1ad6592939db0610056dd6c7dc92f17bdda3210",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/finite_math_replay/frozen/revision_2026/reviewer_completion_2026_09_08/theory_originality/operational_followup_20260909/verify_operational_identities.py",
+        "units/finite_math_replay/runs/20260909T053605952833Z/LMA/revision_2026/reviewer_completion_2026_09_08/theory_originality/operational_followup_20260909/verify_operational_identities.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/core_cardinality_molecular/dependency_snapshot/pdbbind_tensors_experiment.py",
+      "bytes": 15798,
+      "sha256": "8117371135cd1e8f1aecdbff430169779129b6a8f84d320aef3c8056b503d22f",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/dependency_snapshot/pdbbind_tensors_experiment.py",
+        "units/fixed_residual/bundle/frozen/pdbbind_tensors_experiment.py",
+        "units/fresh_training_completed/frozen/pdbbind_tensors_experiment.py",
+        "units/fresh_training_inputs/frozen/pdbbind_tensors_experiment.py",
+        "units/receptor_replay/bundle/frozen/pdbbind_tensors_experiment.py",
+        "units/retained_diagnostic_sources/LMA/pdbbind_tensors_experiment.py",
+        "units/retained_synthetic/frozen/pdbbind_tensors_experiment.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/core_cardinality_molecular/cardinality_controls/analyze.py",
+      "bytes": 13835,
+      "sha256": "de9720f61c8fd6581bf2ec40b90bfafeed48b3f2218565c4e4d3a06fc716f4e6",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/cardinality_controls/analyze.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/core_cardinality_molecular/cardinality_controls/controls.py",
+      "bytes": 15621,
+      "sha256": "e736fc35941e9b8845c748dcaef924ad34068c93a5d10506dbb063c66e2bb28d",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/cardinality_controls/controls.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/core_cardinality_molecular/dependency_snapshot/revision_2026/data_interpretation_audit.py",
+      "bytes": 3495,
+      "sha256": "cf0e270cdfa808cb39b2be832e3a23d842fe9ef0fbd91fac00acf9db0afaeadc",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/dependency_snapshot/revision_2026/data_interpretation_audit.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/core_cardinality_molecular/dependency_snapshot/revision_2026/lma_revision.py",
+      "bytes": 3861,
+      "sha256": "45ff4a296b10efacc7e06bc62f16581ae32da4b166953ef9a6a6db4ec8d742bd",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/dependency_snapshot/revision_2026/lma_revision.py",
+        "units/fixed_residual/bundle/frozen/revision_2026/lma_revision.py",
+        "units/fresh_training_completed/frozen/revision_2026/lma_revision.py",
+        "units/fresh_training_inputs/frozen/revision_2026/lma_revision.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/lma_revision.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/lma_revision.py",
+        "units/retained_synthetic/frozen/revision_2026/lma_revision.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/core_cardinality_molecular/dependency_snapshot/revision_2026/pdb_reconstruction_audit.py",
+      "bytes": 3964,
+      "sha256": "7aee5c10b8c384cfee51b00180bede1db5b69f66d380a7613af9c1cba4532ad1",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/dependency_snapshot/revision_2026/pdb_reconstruction_audit.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/core_cardinality_molecular/dependency_snapshot/revision_2026/prepare_lp_pdbbind.py",
+      "bytes": 7523,
+      "sha256": "7a7208537162f115ddc5c803ae6c5c931fffeaf2f50057dada591182bd46a70e",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/dependency_snapshot/revision_2026/prepare_lp_pdbbind.py",
+        "units/fixed_residual/bundle/frozen/revision_2026/prepare_lp_pdbbind.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/prepare_lp_pdbbind.py",
+        "units/shared_ligand_inputs/LMA/revision_2026/prepare_lp_pdbbind.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/core_cardinality_molecular/dependency_snapshot/revision_2026/pdbbind_rerun.py",
+      "bytes": 11839,
+      "sha256": "6a23a481d98e4b76cdfd05bc2a97118fc5c3ce93ac9596544211ddfa144c5794",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/dependency_snapshot/revision_2026/pdbbind_rerun.py",
+        "units/fixed_residual/bundle/frozen/revision_2026/pdbbind_rerun.py",
+        "units/fresh_training_completed/frozen/revision_2026/pdbbind_rerun.py",
+        "units/fresh_training_inputs/frozen/revision_2026/pdbbind_rerun.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/pdbbind_rerun.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/pdbbind_rerun.py",
+        "units/retained_synthetic/frozen/revision_2026/pdbbind_rerun.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_synthetic/frozen/pdbbind_tensors_experiment.py",
+      "bytes": 15798,
+      "sha256": "8117371135cd1e8f1aecdbff430169779129b6a8f84d320aef3c8056b503d22f",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/dependency_snapshot/pdbbind_tensors_experiment.py",
+        "units/fixed_residual/bundle/frozen/pdbbind_tensors_experiment.py",
+        "units/fresh_training_completed/frozen/pdbbind_tensors_experiment.py",
+        "units/fresh_training_inputs/frozen/pdbbind_tensors_experiment.py",
+        "units/receptor_replay/bundle/frozen/pdbbind_tensors_experiment.py",
+        "units/retained_diagnostic_sources/LMA/pdbbind_tensors_experiment.py",
+        "units/retained_synthetic/frozen/pdbbind_tensors_experiment.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_synthetic/frozen/lma.py",
+      "bytes": 19938,
+      "sha256": "5f62f77ef974c007ac837b427ec1fe1fa0600cf84de6d7fa4fcf44cfa3970b53",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/lma.py",
+        "units/fresh_training_completed/frozen/lma.py",
+        "units/fresh_training_inputs/frozen/lma.py",
+        "units/retained_diagnostic_sources/LMA/lma.py",
+        "units/retained_synthetic/frozen/lma.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_synthetic/frozen/revision_2026/lma_revision.py",
+      "bytes": 3861,
+      "sha256": "45ff4a296b10efacc7e06bc62f16581ae32da4b166953ef9a6a6db4ec8d742bd",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/dependency_snapshot/revision_2026/lma_revision.py",
+        "units/fixed_residual/bundle/frozen/revision_2026/lma_revision.py",
+        "units/fresh_training_completed/frozen/revision_2026/lma_revision.py",
+        "units/fresh_training_inputs/frozen/revision_2026/lma_revision.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/lma_revision.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/lma_revision.py",
+        "units/retained_synthetic/frozen/revision_2026/lma_revision.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_synthetic/frozen/revision_2026/pdbbind_rerun.py",
+      "bytes": 11839,
+      "sha256": "6a23a481d98e4b76cdfd05bc2a97118fc5c3ce93ac9596544211ddfa144c5794",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/dependency_snapshot/revision_2026/pdbbind_rerun.py",
+        "units/fixed_residual/bundle/frozen/revision_2026/pdbbind_rerun.py",
+        "units/fresh_training_completed/frozen/revision_2026/pdbbind_rerun.py",
+        "units/fresh_training_inputs/frozen/revision_2026/pdbbind_rerun.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/pdbbind_rerun.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/pdbbind_rerun.py",
+        "units/retained_synthetic/frozen/revision_2026/pdbbind_rerun.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_synthetic/frozen/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+      "bytes": 8774,
+      "sha256": "344f10440e7dc2648bc535ffaac3ed8d819b8db23a77b94337faf883ce4e6314",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/models.py",
+        "units/fixed_residual/bundle/frozen/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+        "units/fresh_training_completed/frozen/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+        "units/fresh_training_inputs/frozen/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+        "units/retained_synthetic/frozen/revision_2026/neural_reviewer_study_2026_09_07/models.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/finite_neural_engine.py",
+      "bytes": 19928,
+      "sha256": "e3d0469742f0e3ca0fd4895f0a14f6108f0e4f6b663d30ce17e3bfb5fe66c24a",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/finite_neural_engine.py",
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/finite_neural_engine.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/finite_neural_engine.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/finite_neural_engine.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/finite_neural_engine.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/campaign.py",
+      "bytes": 15097,
+      "sha256": "4bbc88db6a465bcda332fdb943629b4c03a0e47f116b375637868b13e1163372",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/campaign.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/campaign.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/campaign.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/audit.py",
+      "bytes": 14208,
+      "sha256": "7c02b7b00543a4c9993ed5b16130a05201eb72d503f9a20e0de06e4a1b187ab9",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/audit.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/audit.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/audit.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/analyze.py",
+      "bytes": 18830,
+      "sha256": "0b740db1a8ac7b1456cb7a5aa7c29441f496d76c8755b81a244ee9e56014fb42",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/analyze.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/analyze.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/analyze.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_models.py",
+      "bytes": 4679,
+      "sha256": "755e676ffb9563c9dd7d667b64e34442884e7d33e17afe5eaac27f0a8e8b41b3",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_models.py",
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_models.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_models.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_models.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_models.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_common.py",
+      "bytes": 5137,
+      "sha256": "fb8c948bbee7cd830a229106d348b1e4f6b68ee47221851903bb3240cd8009c0",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_common.py",
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_common.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_common.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_common.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_common.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/neural_audit.py",
+      "bytes": 7835,
+      "sha256": "09696be45a22344e44382413b7404e8b888e2594927f14bc5b4c00c3d0810bb8",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/neural_audit.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/neural_audit.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/neural_audit.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/neural_models.py",
+      "bytes": 2592,
+      "sha256": "e2df54e39bea292df2d26d31f170b305e370429d9004e2d2402aac4dd2fdb5d0",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/neural_models.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/neural_models.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/neural_models.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/generator.py",
+      "bytes": 3646,
+      "sha256": "eed30a58bcac15bc8793e69945c8e306575b16f3ecb663860430ac7ca8596313",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/generator.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/generator.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/generator.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/adapter.py",
+      "bytes": 7056,
+      "sha256": "b84560dff8049833a6929e3e1f4b0a7f1f9f5041bd25fcee552c5a3ce3ab5fbf",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/adapter.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/adapter.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/adapter.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_audit.py",
+      "bytes": 10142,
+      "sha256": "fd7ed938cdd82d09835bcc43b5f3d0ec521bac3a964191786568c733850bff59",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_audit.py",
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_audit.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_audit.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_audit.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_audit.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/closed_form.py",
+      "bytes": 6723,
+      "sha256": "ec1a1441ff00c6fc8eaf4ecdaece4cee46c6918a5be139171e79985068162add",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/closed_form.py",
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/closed_form.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/closed_form.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/first_cubic/closed_form.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/closed_form.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_models.py",
+      "bytes": 3076,
+      "sha256": "fd020d85a602ac6f47985e10bd704ba7ffa9e82018fe92ba284e49d7d7d228d7",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_models.py",
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_models.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_models.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_models.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_models.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/generator.py",
+      "bytes": 3354,
+      "sha256": "ddb203241e5881507d40f687841b1a9672344615a1d2c14842cf76225c9fdc2b",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/generator.py",
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/generator.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/generator.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/first_cubic/generator.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/generator.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/adapter.py",
+      "bytes": 7900,
+      "sha256": "10e1ecc8276724b8b8bee24733ecd368db76c14497ef3844609c1ebdc90ba823",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/adapter.py",
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/adapter.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/adapter.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/first_cubic/adapter.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/adapter.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fresh_training_inputs/frozen/pdbbind_tensors_experiment.py",
+      "bytes": 15798,
+      "sha256": "8117371135cd1e8f1aecdbff430169779129b6a8f84d320aef3c8056b503d22f",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/dependency_snapshot/pdbbind_tensors_experiment.py",
+        "units/fixed_residual/bundle/frozen/pdbbind_tensors_experiment.py",
+        "units/fresh_training_completed/frozen/pdbbind_tensors_experiment.py",
+        "units/fresh_training_inputs/frozen/pdbbind_tensors_experiment.py",
+        "units/receptor_replay/bundle/frozen/pdbbind_tensors_experiment.py",
+        "units/retained_diagnostic_sources/LMA/pdbbind_tensors_experiment.py",
+        "units/retained_synthetic/frozen/pdbbind_tensors_experiment.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fresh_training_inputs/frozen/lma.py",
+      "bytes": 19938,
+      "sha256": "5f62f77ef974c007ac837b427ec1fe1fa0600cf84de6d7fa4fcf44cfa3970b53",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/lma.py",
+        "units/fresh_training_completed/frozen/lma.py",
+        "units/fresh_training_inputs/frozen/lma.py",
+        "units/retained_diagnostic_sources/LMA/lma.py",
+        "units/retained_synthetic/frozen/lma.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fresh_training_inputs/frozen/revision_2026/lma_revision.py",
+      "bytes": 3861,
+      "sha256": "45ff4a296b10efacc7e06bc62f16581ae32da4b166953ef9a6a6db4ec8d742bd",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/dependency_snapshot/revision_2026/lma_revision.py",
+        "units/fixed_residual/bundle/frozen/revision_2026/lma_revision.py",
+        "units/fresh_training_completed/frozen/revision_2026/lma_revision.py",
+        "units/fresh_training_inputs/frozen/revision_2026/lma_revision.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/lma_revision.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/lma_revision.py",
+        "units/retained_synthetic/frozen/revision_2026/lma_revision.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fresh_training_inputs/frozen/revision_2026/pdbbind_rerun.py",
+      "bytes": 11839,
+      "sha256": "6a23a481d98e4b76cdfd05bc2a97118fc5c3ce93ac9596544211ddfa144c5794",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/dependency_snapshot/revision_2026/pdbbind_rerun.py",
+        "units/fixed_residual/bundle/frozen/revision_2026/pdbbind_rerun.py",
+        "units/fresh_training_completed/frozen/revision_2026/pdbbind_rerun.py",
+        "units/fresh_training_inputs/frozen/revision_2026/pdbbind_rerun.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/pdbbind_rerun.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/pdbbind_rerun.py",
+        "units/retained_synthetic/frozen/revision_2026/pdbbind_rerun.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fresh_training_inputs/frozen/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+      "bytes": 8774,
+      "sha256": "344f10440e7dc2648bc535ffaac3ed8d819b8db23a77b94337faf883ce4e6314",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/models.py",
+        "units/fixed_residual/bundle/frozen/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+        "units/fresh_training_completed/frozen/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+        "units/fresh_training_inputs/frozen/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+        "units/retained_synthetic/frozen/revision_2026/neural_reviewer_study_2026_09_07/models.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/finite_neural_engine.py",
+      "bytes": 19928,
+      "sha256": "e3d0469742f0e3ca0fd4895f0a14f6108f0e4f6b663d30ce17e3bfb5fe66c24a",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/finite_neural_engine.py",
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/finite_neural_engine.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/finite_neural_engine.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/finite_neural_engine.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/finite_neural_engine.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/campaign.py",
+      "bytes": 15097,
+      "sha256": "4bbc88db6a465bcda332fdb943629b4c03a0e47f116b375637868b13e1163372",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/campaign.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/campaign.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/campaign.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/audit.py",
+      "bytes": 14208,
+      "sha256": "7c02b7b00543a4c9993ed5b16130a05201eb72d503f9a20e0de06e4a1b187ab9",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/audit.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/audit.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/audit.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/analyze.py",
+      "bytes": 18830,
+      "sha256": "0b740db1a8ac7b1456cb7a5aa7c29441f496d76c8755b81a244ee9e56014fb42",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/analyze.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/analyze.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/analyze.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_models.py",
+      "bytes": 4679,
+      "sha256": "755e676ffb9563c9dd7d667b64e34442884e7d33e17afe5eaac27f0a8e8b41b3",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_models.py",
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_models.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_models.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_models.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_models.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_common.py",
+      "bytes": 5137,
+      "sha256": "fb8c948bbee7cd830a229106d348b1e4f6b68ee47221851903bb3240cd8009c0",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_common.py",
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_common.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_common.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_common.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_common.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/neural_audit.py",
+      "bytes": 7835,
+      "sha256": "09696be45a22344e44382413b7404e8b888e2594927f14bc5b4c00c3d0810bb8",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/neural_audit.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/neural_audit.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/neural_audit.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/neural_models.py",
+      "bytes": 2592,
+      "sha256": "e2df54e39bea292df2d26d31f170b305e370429d9004e2d2402aac4dd2fdb5d0",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/neural_models.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/neural_models.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/neural_models.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/generator.py",
+      "bytes": 3646,
+      "sha256": "eed30a58bcac15bc8793e69945c8e306575b16f3ecb663860430ac7ca8596313",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/generator.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/generator.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/generator.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/adapter.py",
+      "bytes": 7056,
+      "sha256": "b84560dff8049833a6929e3e1f4b0a7f1f9f5041bd25fcee552c5a3ce3ab5fbf",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/adapter.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/adapter.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/adapter.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_audit.py",
+      "bytes": 10142,
+      "sha256": "fd7ed938cdd82d09835bcc43b5f3d0ec521bac3a964191786568c733850bff59",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_audit.py",
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_audit.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_audit.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_audit.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_audit.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/closed_form.py",
+      "bytes": 6723,
+      "sha256": "ec1a1441ff00c6fc8eaf4ecdaece4cee46c6918a5be139171e79985068162add",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/closed_form.py",
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/closed_form.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/closed_form.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/first_cubic/closed_form.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/closed_form.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_models.py",
+      "bytes": 3076,
+      "sha256": "fd020d85a602ac6f47985e10bd704ba7ffa9e82018fe92ba284e49d7d7d228d7",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_models.py",
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_models.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_models.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_models.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_models.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/generator.py",
+      "bytes": 3354,
+      "sha256": "ddb203241e5881507d40f687841b1a9672344615a1d2c14842cf76225c9fdc2b",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/generator.py",
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/generator.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/generator.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/first_cubic/generator.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/generator.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/adapter.py",
+      "bytes": 7900,
+      "sha256": "10e1ecc8276724b8b8bee24733ecd368db76c14497ef3844609c1ebdc90ba823",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/adapter.py",
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/adapter.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/adapter.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/first_cubic/adapter.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/adapter.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/shared_ligand_inputs/LMA/revision_2026/prepare_lp_pdbbind.py",
+      "bytes": 7523,
+      "sha256": "7a7208537162f115ddc5c803ae6c5c931fffeaf2f50057dada591182bd46a70e",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/dependency_snapshot/revision_2026/prepare_lp_pdbbind.py",
+        "units/fixed_residual/bundle/frozen/revision_2026/prepare_lp_pdbbind.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/prepare_lp_pdbbind.py",
+        "units/shared_ligand_inputs/LMA/revision_2026/prepare_lp_pdbbind.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fresh_training_completed/frozen/pdbbind_tensors_experiment.py",
+      "bytes": 15798,
+      "sha256": "8117371135cd1e8f1aecdbff430169779129b6a8f84d320aef3c8056b503d22f",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/dependency_snapshot/pdbbind_tensors_experiment.py",
+        "units/fixed_residual/bundle/frozen/pdbbind_tensors_experiment.py",
+        "units/fresh_training_completed/frozen/pdbbind_tensors_experiment.py",
+        "units/fresh_training_inputs/frozen/pdbbind_tensors_experiment.py",
+        "units/receptor_replay/bundle/frozen/pdbbind_tensors_experiment.py",
+        "units/retained_diagnostic_sources/LMA/pdbbind_tensors_experiment.py",
+        "units/retained_synthetic/frozen/pdbbind_tensors_experiment.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fresh_training_completed/frozen/lma.py",
+      "bytes": 19938,
+      "sha256": "5f62f77ef974c007ac837b427ec1fe1fa0600cf84de6d7fa4fcf44cfa3970b53",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/lma.py",
+        "units/fresh_training_completed/frozen/lma.py",
+        "units/fresh_training_inputs/frozen/lma.py",
+        "units/retained_diagnostic_sources/LMA/lma.py",
+        "units/retained_synthetic/frozen/lma.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fresh_training_completed/frozen/revision_2026/lma_revision.py",
+      "bytes": 3861,
+      "sha256": "45ff4a296b10efacc7e06bc62f16581ae32da4b166953ef9a6a6db4ec8d742bd",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/dependency_snapshot/revision_2026/lma_revision.py",
+        "units/fixed_residual/bundle/frozen/revision_2026/lma_revision.py",
+        "units/fresh_training_completed/frozen/revision_2026/lma_revision.py",
+        "units/fresh_training_inputs/frozen/revision_2026/lma_revision.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/lma_revision.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/lma_revision.py",
+        "units/retained_synthetic/frozen/revision_2026/lma_revision.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fresh_training_completed/frozen/revision_2026/pdbbind_rerun.py",
+      "bytes": 11839,
+      "sha256": "6a23a481d98e4b76cdfd05bc2a97118fc5c3ce93ac9596544211ddfa144c5794",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/dependency_snapshot/revision_2026/pdbbind_rerun.py",
+        "units/fixed_residual/bundle/frozen/revision_2026/pdbbind_rerun.py",
+        "units/fresh_training_completed/frozen/revision_2026/pdbbind_rerun.py",
+        "units/fresh_training_inputs/frozen/revision_2026/pdbbind_rerun.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/pdbbind_rerun.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/pdbbind_rerun.py",
+        "units/retained_synthetic/frozen/revision_2026/pdbbind_rerun.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fresh_training_completed/frozen/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+      "bytes": 8774,
+      "sha256": "344f10440e7dc2648bc535ffaac3ed8d819b8db23a77b94337faf883ce4e6314",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/models.py",
+        "units/fixed_residual/bundle/frozen/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+        "units/fresh_training_completed/frozen/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+        "units/fresh_training_inputs/frozen/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+        "units/retained_synthetic/frozen/revision_2026/neural_reviewer_study_2026_09_07/models.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/finite_neural_engine.py",
+      "bytes": 19928,
+      "sha256": "e3d0469742f0e3ca0fd4895f0a14f6108f0e4f6b663d30ce17e3bfb5fe66c24a",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/finite_neural_engine.py",
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/finite_neural_engine.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/finite_neural_engine.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/finite_neural_engine.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/finite_neural_engine.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/campaign.py",
+      "bytes": 15097,
+      "sha256": "4bbc88db6a465bcda332fdb943629b4c03a0e47f116b375637868b13e1163372",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/campaign.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/campaign.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/campaign.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/audit.py",
+      "bytes": 14208,
+      "sha256": "7c02b7b00543a4c9993ed5b16130a05201eb72d503f9a20e0de06e4a1b187ab9",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/audit.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/audit.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/audit.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/analyze.py",
+      "bytes": 18830,
+      "sha256": "0b740db1a8ac7b1456cb7a5aa7c29441f496d76c8755b81a244ee9e56014fb42",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/analyze.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/analyze.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/analyze.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_models.py",
+      "bytes": 4679,
+      "sha256": "755e676ffb9563c9dd7d667b64e34442884e7d33e17afe5eaac27f0a8e8b41b3",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_models.py",
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_models.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_models.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_models.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_models.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_common.py",
+      "bytes": 5137,
+      "sha256": "fb8c948bbee7cd830a229106d348b1e4f6b68ee47221851903bb3240cd8009c0",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_common.py",
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_common.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_common.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_common.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_common.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/neural_audit.py",
+      "bytes": 7835,
+      "sha256": "09696be45a22344e44382413b7404e8b888e2594927f14bc5b4c00c3d0810bb8",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/neural_audit.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/neural_audit.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/neural_audit.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/neural_models.py",
+      "bytes": 2592,
+      "sha256": "e2df54e39bea292df2d26d31f170b305e370429d9004e2d2402aac4dd2fdb5d0",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/neural_models.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/neural_models.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/neural_models.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/generator.py",
+      "bytes": 3646,
+      "sha256": "eed30a58bcac15bc8793e69945c8e306575b16f3ecb663860430ac7ca8596313",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/generator.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/generator.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/generator.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/adapter.py",
+      "bytes": 7056,
+      "sha256": "b84560dff8049833a6929e3e1f4b0a7f1f9f5041bd25fcee552c5a3ce3ab5fbf",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/adapter.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/adapter.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/adapter.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_audit.py",
+      "bytes": 10142,
+      "sha256": "fd7ed938cdd82d09835bcc43b5f3d0ec521bac3a964191786568c733850bff59",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_audit.py",
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_audit.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_audit.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_audit.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_audit.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/closed_form.py",
+      "bytes": 6723,
+      "sha256": "ec1a1441ff00c6fc8eaf4ecdaece4cee46c6918a5be139171e79985068162add",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/closed_form.py",
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/closed_form.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/closed_form.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/first_cubic/closed_form.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/closed_form.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_models.py",
+      "bytes": 3076,
+      "sha256": "fd020d85a602ac6f47985e10bd704ba7ffa9e82018fe92ba284e49d7d7d228d7",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_models.py",
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_models.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_models.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_models.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_models.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/generator.py",
+      "bytes": 3354,
+      "sha256": "ddb203241e5881507d40f687841b1a9672344615a1d2c14842cf76225c9fdc2b",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/generator.py",
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/generator.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/generator.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/first_cubic/generator.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/generator.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/adapter.py",
+      "bytes": 7900,
+      "sha256": "10e1ecc8276724b8b8bee24733ecd368db76c14497ef3844609c1ebdc90ba823",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/adapter.py",
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/adapter.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/adapter.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/first_cubic/adapter.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/adapter.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/receptor_replay/bundle/replay.py",
+      "bytes": 20964,
+      "sha256": "b3eb948174659d2e3ea56e5f254351ca5a18db573bc6d36f84d4ad55fea1e951",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/receptor_replay/bundle/replay.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/receptor_replay/bundle/replay_helpers.py",
+      "bytes": 41997,
+      "sha256": "e5c6f1f4fe94229626a905373a6bd4c21397355040f22c05def12b171a0c9c17",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/receptor_replay/bundle/replay_helpers.py",
+        "units/retained_synthetic/replay.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/receptor_replay/bundle/frozen/pdbbind_tensors_experiment.py",
+      "bytes": 15798,
+      "sha256": "8117371135cd1e8f1aecdbff430169779129b6a8f84d320aef3c8056b503d22f",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/dependency_snapshot/pdbbind_tensors_experiment.py",
+        "units/fixed_residual/bundle/frozen/pdbbind_tensors_experiment.py",
+        "units/fresh_training_completed/frozen/pdbbind_tensors_experiment.py",
+        "units/fresh_training_inputs/frozen/pdbbind_tensors_experiment.py",
+        "units/receptor_replay/bundle/frozen/pdbbind_tensors_experiment.py",
+        "units/retained_diagnostic_sources/LMA/pdbbind_tensors_experiment.py",
+        "units/retained_synthetic/frozen/pdbbind_tensors_experiment.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/receptor_replay/bundle/frozen/revision_2026/lma_revision.py",
+      "bytes": 3861,
+      "sha256": "45ff4a296b10efacc7e06bc62f16581ae32da4b166953ef9a6a6db4ec8d742bd",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/dependency_snapshot/revision_2026/lma_revision.py",
+        "units/fixed_residual/bundle/frozen/revision_2026/lma_revision.py",
+        "units/fresh_training_completed/frozen/revision_2026/lma_revision.py",
+        "units/fresh_training_inputs/frozen/revision_2026/lma_revision.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/lma_revision.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/lma_revision.py",
+        "units/retained_synthetic/frozen/revision_2026/lma_revision.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/receptor_replay/bundle/frozen/revision_2026/prepare_lp_pdbbind.py",
+      "bytes": 7523,
+      "sha256": "7a7208537162f115ddc5c803ae6c5c931fffeaf2f50057dada591182bd46a70e",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/dependency_snapshot/revision_2026/prepare_lp_pdbbind.py",
+        "units/fixed_residual/bundle/frozen/revision_2026/prepare_lp_pdbbind.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/prepare_lp_pdbbind.py",
+        "units/shared_ligand_inputs/LMA/revision_2026/prepare_lp_pdbbind.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/receptor_replay/bundle/frozen/revision_2026/pdbbind_rerun.py",
+      "bytes": 11839,
+      "sha256": "6a23a481d98e4b76cdfd05bc2a97118fc5c3ce93ac9596544211ddfa144c5794",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/dependency_snapshot/revision_2026/pdbbind_rerun.py",
+        "units/fixed_residual/bundle/frozen/revision_2026/pdbbind_rerun.py",
+        "units/fresh_training_completed/frozen/revision_2026/pdbbind_rerun.py",
+        "units/fresh_training_inputs/frozen/revision_2026/pdbbind_rerun.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/pdbbind_rerun.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/pdbbind_rerun.py",
+        "units/retained_synthetic/frozen/revision_2026/pdbbind_rerun.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/receptor_replay/bundle/frozen/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+      "bytes": 8774,
+      "sha256": "344f10440e7dc2648bc535ffaac3ed8d819b8db23a77b94337faf883ce4e6314",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/models.py",
+        "units/fixed_residual/bundle/frozen/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+        "units/fresh_training_completed/frozen/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+        "units/fresh_training_inputs/frozen/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+        "units/retained_synthetic/frozen/revision_2026/neural_reviewer_study_2026_09_07/models.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_encoder.py",
+      "bytes": 2283,
+      "sha256": "835f3ead30ee3f3b4f8378d35d80ec36f0edd7f9ab212fbac1849388e0c619ab",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_encoder.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_encoder.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_scoring.py",
+      "bytes": 27310,
+      "sha256": "d138e206c5332279b59562fc02f7b5a0021eeeca4e3a6c40a11a51787e6105d6",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_scoring.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_scoring.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_data.py",
+      "bytes": 7180,
+      "sha256": "1ed044453121c0aa884d5704d0f8a622275c5459192ab23711af941f3d64f586",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_data.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_data.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_scoring_audit.py",
+      "bytes": 13133,
+      "sha256": "2612d9532108cf83dc7ad483283c8bfc7b20f54b9900ea498bb15f5104a84ebf",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_scoring_audit.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_scoring_audit.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_encoder_audit.py",
+      "bytes": 3969,
+      "sha256": "ec0d759065bd6f8b46d427014bcf92427f0a3232cfafc85fb16415f6b1e757f9",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_encoder_audit.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_encoder_audit.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_models.py",
+      "bytes": 5642,
+      "sha256": "8755cbf7072c868b751900324c5e326479cc2639b84fb0cadc1eb575c92891b4",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_models.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_models.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_engine_audit.py",
+      "bytes": 8510,
+      "sha256": "c0b60405aa050480ab405baea08f111cbd90d54b977c5c5964e3f704c28d3ada",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_engine_audit.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_engine_audit.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_selection.py",
+      "bytes": 5379,
+      "sha256": "709d1b8ef8d7ae6d9442709dab00b774f2b1179aad4210246d11cc4be7950077",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_selection.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_selection.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_gpu_audit.py",
+      "bytes": 12250,
+      "sha256": "662cee5dc1ee79aa777d800da142f27e6ec2e4f66d36f15000940de78dc40be5",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_gpu_audit.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_gpu_audit.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_execution.py",
+      "bytes": 12217,
+      "sha256": "f90643fce0a6fb862d5a82787a849382c93abb793ef05ea8edb244572e1d78ad",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_execution.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_execution.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_model_audit.py",
+      "bytes": 11916,
+      "sha256": "6bd1081747a0431dabd39063470057a23a647c30c4158e87f6746eb644f04f60",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_model_audit.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_model_audit.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_campaign_audit.py",
+      "bytes": 8513,
+      "sha256": "5636235ff62c5cb440a02f0e1c024b62f2bb8803f4a13130dd0eb2a29be4587a",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_campaign_audit.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_campaign_audit.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_selection_audit.py",
+      "bytes": 6925,
+      "sha256": "5fa2fb5e9ca7be15d1a36dff31ff724ceb555e802a3635fc07bc851db2cfa53f",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_selection_audit.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_selection_audit.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_campaign.py",
+      "bytes": 15506,
+      "sha256": "9a999ffb9bc6a833a87c4a038bdb016357c6bbb738c4787882b5e1a21ae261cf",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_campaign.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_campaign.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/radial_contacts.py",
+      "bytes": 2842,
+      "sha256": "80282338b5ea3e8a39748be009e722befa4235612bda66d17a97b2020247762d",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/radial_contacts.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/radial_contacts.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/audit_radial_contacts.py",
+      "bytes": 6278,
+      "sha256": "de97b0b228d83777e9b6e465b9fca92bb98cc7d3b0b45906ce939b2ea4a8a903",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/audit_radial_contacts.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/audit_radial_contacts.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/matched_execution.py",
+      "bytes": 12325,
+      "sha256": "042b841730f4f466bd75b8226cee70953aa64b7fdca7398810b7ca1cbcb340d2",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/matched_execution.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/matched_execution.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/matched_campaign.py",
+      "bytes": 11710,
+      "sha256": "5711d861ee26635b2c386cb3938782c936bbf5edbcf9c62ae3426a3ca891f5af",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/matched_campaign.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/matched_campaign.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/matched_scoring.py",
+      "bytes": 27455,
+      "sha256": "ac17a3b79439e3a34ed25546fe341c0d6cbd6a22fbd55cec7cc96b8724b6e80c",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/matched_scoring.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/matched_scoring.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/prepare_matched_tensors.py",
+      "bytes": 11164,
+      "sha256": "8d133811a449c86fed7eb3b931738065e17beb4d027643906e73a7161c483bfc",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/prepare_matched_tensors.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/prepare_matched_tensors.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/audit_matched_execution.py",
+      "bytes": 10908,
+      "sha256": "313e57f8ead2c919ab53b6bf9c6ec66182051bde5fa34240b0344fedc3b9c65e",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/audit_matched_execution.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/audit_matched_execution.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/matched_selection.py",
+      "bytes": 4479,
+      "sha256": "27bbe0d24156d7dea5d2cda8d5e923acc9fd469fde00d06fd3efd0d44b06f53f",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/matched_selection.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/matched_selection.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/matched_preprocessing_costs.py",
+      "bytes": 5318,
+      "sha256": "eb7e11c2b9d144449c330e9c08cdfd4048b050f563eb58f8a68732be21a820b3",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/matched_preprocessing_costs.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/matched_preprocessing_costs.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/audit_matched_models.py",
+      "bytes": 7631,
+      "sha256": "2c81763047d7c803ea0fcd463174b1f115550abac7cad084e49d55a9719104e4",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/audit_matched_models.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/audit_matched_models.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/audit_matched_selection_scoring.py",
+      "bytes": 12213,
+      "sha256": "f822b6707da626a97e8317f0ca05f07bea07272c52c46be81efe65ea865b749d",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/audit_matched_selection_scoring.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/audit_matched_selection_scoring.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/audit_matched_campaign.py",
+      "bytes": 7650,
+      "sha256": "1b44d7460eb2ea337bec2b2ce4667aea0d9c87f3dbc15cea13e83e1a7c103254",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/audit_matched_campaign.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/audit_matched_campaign.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/audit_matched_cohort_inputs.py",
+      "bytes": 16018,
+      "sha256": "d9e381813390ea7b97dafe7e2fd08de625cb8bd67973c2d04a776c1f1de96d5a",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/audit_matched_cohort_inputs.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/audit_matched_cohort_inputs.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/matched_gpu_audit.py",
+      "bytes": 11672,
+      "sha256": "4cce95b12100170036750ea74080d8dad3738a1477ca123ca360b9abd2da5e13",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/matched_gpu_audit.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/matched_gpu_audit.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/matched_models.py",
+      "bytes": 2321,
+      "sha256": "e4533de279284baa8eab78a524404e96dd0ad2f2981bd743851565ce15fb50da",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/matched_models.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/matched_models.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_diagnostic_sources/LMA/pdbbind_tensors_experiment.py",
+      "bytes": 15798,
+      "sha256": "8117371135cd1e8f1aecdbff430169779129b6a8f84d320aef3c8056b503d22f",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/dependency_snapshot/pdbbind_tensors_experiment.py",
+        "units/fixed_residual/bundle/frozen/pdbbind_tensors_experiment.py",
+        "units/fresh_training_completed/frozen/pdbbind_tensors_experiment.py",
+        "units/fresh_training_inputs/frozen/pdbbind_tensors_experiment.py",
+        "units/receptor_replay/bundle/frozen/pdbbind_tensors_experiment.py",
+        "units/retained_diagnostic_sources/LMA/pdbbind_tensors_experiment.py",
+        "units/retained_synthetic/frozen/pdbbind_tensors_experiment.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_diagnostic_sources/LMA/lma.py",
+      "bytes": 19938,
+      "sha256": "5f62f77ef974c007ac837b427ec1fe1fa0600cf84de6d7fa4fcf44cfa3970b53",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/lma.py",
+        "units/fresh_training_completed/frozen/lma.py",
+        "units/fresh_training_inputs/frozen/lma.py",
+        "units/retained_diagnostic_sources/LMA/lma.py",
+        "units/retained_synthetic/frozen/lma.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_diagnostic_sources/LMA/revision_2026/lma_revision.py",
+      "bytes": 3861,
+      "sha256": "45ff4a296b10efacc7e06bc62f16581ae32da4b166953ef9a6a6db4ec8d742bd",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/dependency_snapshot/revision_2026/lma_revision.py",
+        "units/fixed_residual/bundle/frozen/revision_2026/lma_revision.py",
+        "units/fresh_training_completed/frozen/revision_2026/lma_revision.py",
+        "units/fresh_training_inputs/frozen/revision_2026/lma_revision.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/lma_revision.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/lma_revision.py",
+        "units/retained_synthetic/frozen/revision_2026/lma_revision.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_diagnostic_sources/LMA/revision_2026/pdbbind_rerun.py",
+      "bytes": 11839,
+      "sha256": "6a23a481d98e4b76cdfd05bc2a97118fc5c3ce93ac9596544211ddfa144c5794",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/dependency_snapshot/revision_2026/pdbbind_rerun.py",
+        "units/fixed_residual/bundle/frozen/revision_2026/pdbbind_rerun.py",
+        "units/fresh_training_completed/frozen/revision_2026/pdbbind_rerun.py",
+        "units/fresh_training_inputs/frozen/revision_2026/pdbbind_rerun.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/pdbbind_rerun.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/pdbbind_rerun.py",
+        "units/retained_synthetic/frozen/revision_2026/pdbbind_rerun.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_diagnostic_sources/LMA/revision_2026/neural_reviewer_study_2026_09_07/prefit_audit.py",
+      "bytes": 11287,
+      "sha256": "355266fe17c1b4aa8f1ead5cd05ac227941e25635a3b81649d1e6f7b5ef082fe",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/prefit_audit.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/neural_reviewer_study_2026_09_07/prefit_audit.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_diagnostic_sources/LMA/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+      "bytes": 8774,
+      "sha256": "344f10440e7dc2648bc535ffaac3ed8d819b8db23a77b94337faf883ce4e6314",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/models.py",
+        "units/fixed_residual/bundle/frozen/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+        "units/fresh_training_completed/frozen/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+        "units/fresh_training_inputs/frozen/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+        "units/retained_synthetic/frozen/revision_2026/neural_reviewer_study_2026_09_07/models.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_diagnostic_sources/LMA/revision_2026/neural_reviewer_study_2026_09_07/study.py",
+      "bytes": 20338,
+      "sha256": "861f1f841c32a228aa2ce6bcd77324d63575cf61857bf07147bc02cb35108f41",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/study.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/neural_reviewer_study_2026_09_07/study.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/finite_neural_engine.py",
+      "bytes": 19928,
+      "sha256": "e3d0469742f0e3ca0fd4895f0a14f6108f0e4f6b663d30ce17e3bfb5fe66c24a",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/finite_neural_engine.py",
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/finite_neural_engine.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/finite_neural_engine.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/finite_neural_engine.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/finite_neural_engine.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/final_readout_diagnosis/run_diagnostic.py",
+      "bytes": 15094,
+      "sha256": "c5b3b63b8bbc658d8ca7566c089fddaa96f8e60fa25152d6cd58c340624c743e",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/final_readout_diagnosis/run_diagnostic.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/final_readout_diagnosis/affine_solver.py",
+      "bytes": 3921,
+      "sha256": "79820a4f724d412bc0d72473b0e9147a69f55a2785a1f8f2014497a3cce180aa",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/final_readout_diagnosis/affine_solver.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/final_readout_diagnosis/verify_results.py",
+      "bytes": 6574,
+      "sha256": "3de7e9a136501b74cfae7afc19f0b84cb0f56cea3a60cff46fa7ccc3f4c4ba48",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/final_readout_diagnosis/verify_results.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/final_readout_diagnosis/audit_solver.py",
+      "bytes": 2655,
+      "sha256": "35b15f7223718b3d0835791cb8b21348f0d8fcbcb17291a82f5fc4595f14f144",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/final_readout_diagnosis/audit_solver.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/gate_readout/campaign.py",
+      "bytes": 8064,
+      "sha256": "998ffd6eaf312ff4125c5ee583b9cdaa834f1f685daba8ba56f38b7d72cfff33",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/gate_readout/campaign.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/gate_readout/campaign.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/gate_readout/audit.py",
+      "bytes": 8818,
+      "sha256": "635635b4c0145945b0cb8eea74b943ee50be627d548d5ee24a28691317f197e3",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/gate_readout/audit.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/gate_readout/audit.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/gate_readout/gate_models.py",
+      "bytes": 2982,
+      "sha256": "f2cb33b2f00ecb995a31db0b38bca39351d4031dea4018d38aac2763d3510d0b",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/gate_readout/gate_models.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/gate_readout/gate_models.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/target_structure_diagnosis/analyze.py",
+      "bytes": 14610,
+      "sha256": "068e21b4d9ed52d2a0fbbd00e0d4697ad039f8815364cccaed8a282a80d2254e",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/target_structure_diagnosis/analyze.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_models.py",
+      "bytes": 4679,
+      "sha256": "755e676ffb9563c9dd7d667b64e34442884e7d33e17afe5eaac27f0a8e8b41b3",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_models.py",
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_models.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_models.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_models.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_models.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_common.py",
+      "bytes": 5137,
+      "sha256": "fb8c948bbee7cd830a229106d348b1e4f6b68ee47221851903bb3240cd8009c0",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_common.py",
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_common.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_common.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_common.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_common.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/readout_diagnosis/diagnose.py",
+      "bytes": 14130,
+      "sha256": "e012b82870ac01eb36741a59bc07af8f236e9211ec9865b0495b2db679f8d4b4",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/readout_diagnosis/diagnose.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/readout_diagnosis/audit_report.py",
+      "bytes": 9655,
+      "sha256": "41967864a21e361bb728732e92b79c30b4fe9ec36b826ff7b3b4fb580cdef0cc",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/readout_diagnosis/audit_report.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/readout_diagnosis/uniform_query_perturbation.py",
+      "bytes": 6407,
+      "sha256": "c301ee2e9ebecc7d6d7d1beeabb238c1fd47e3a57edb43857907b4e8f0e5fa83",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/readout_diagnosis/uniform_query_perturbation.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_audit.py",
+      "bytes": 10142,
+      "sha256": "fd7ed938cdd82d09835bcc43b5f3d0ec521bac3a964191786568c733850bff59",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_audit.py",
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_audit.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_audit.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_audit.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_audit.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/first_cubic/closed_form.py",
+      "bytes": 6723,
+      "sha256": "ec1a1441ff00c6fc8eaf4ecdaece4cee46c6918a5be139171e79985068162add",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/closed_form.py",
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/closed_form.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/closed_form.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/first_cubic/closed_form.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/closed_form.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_models.py",
+      "bytes": 3076,
+      "sha256": "fd020d85a602ac6f47985e10bd704ba7ffa9e82018fe92ba284e49d7d7d228d7",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_models.py",
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_models.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_models.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_models.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_models.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/first_cubic/generator.py",
+      "bytes": 3354,
+      "sha256": "ddb203241e5881507d40f687841b1a9672344615a1d2c14842cf76225c9fdc2b",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/generator.py",
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/generator.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/generator.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/first_cubic/generator.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/generator.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/first_cubic/adapter.py",
+      "bytes": 7900,
+      "sha256": "10e1ecc8276724b8b8bee24733ecd368db76c14497ef3844609c1ebdc90ba823",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/adapter.py",
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/adapter.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/adapter.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/first_cubic/adapter.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/adapter.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/conditional_residual/vector_quadratic_span.py",
+      "bytes": 6650,
+      "sha256": "a12f2b382a72d06d46f3515c389c6b815398834ac10ef3a7cd767123e6daa55f",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/vector_quadratic_span.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/conditional_residual/vector_quadratic_span.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/conditional_residual/cubic_linear_access.py",
+      "bytes": 9594,
+      "sha256": "bd559b47e5b33133fc3f8435cfcca7e3b71085ae8c31e9377ee3e4b4e94000eb",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/cubic_linear_access.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/conditional_residual/cubic_linear_access.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/conditional_residual/verify_linear_access_certificates.py",
+      "bytes": 6530,
+      "sha256": "4408bdaefaca58f84c288340967fc65ed088079f33dd5153a578e655e43143fa",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/verify_linear_access_certificates.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/conditional_residual/verify_linear_access_certificates.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/verify_bundle.py",
+      "bytes": 925,
+      "sha256": "ec5932020115d8f9eba31a3ca8399cf38100da753d86e7d95352541430d31e83",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/verify_bundle.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/pdbbind_tensors_experiment.py",
+      "bytes": 15798,
+      "sha256": "8117371135cd1e8f1aecdbff430169779129b6a8f84d320aef3c8056b503d22f",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/dependency_snapshot/pdbbind_tensors_experiment.py",
+        "units/fixed_residual/bundle/frozen/pdbbind_tensors_experiment.py",
+        "units/fresh_training_completed/frozen/pdbbind_tensors_experiment.py",
+        "units/fresh_training_inputs/frozen/pdbbind_tensors_experiment.py",
+        "units/receptor_replay/bundle/frozen/pdbbind_tensors_experiment.py",
+        "units/retained_diagnostic_sources/LMA/pdbbind_tensors_experiment.py",
+        "units/retained_synthetic/frozen/pdbbind_tensors_experiment.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/lma.py",
+      "bytes": 19938,
+      "sha256": "5f62f77ef974c007ac837b427ec1fe1fa0600cf84de6d7fa4fcf44cfa3970b53",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/lma.py",
+        "units/fresh_training_completed/frozen/lma.py",
+        "units/fresh_training_inputs/frozen/lma.py",
+        "units/retained_diagnostic_sources/LMA/lma.py",
+        "units/retained_synthetic/frozen/lma.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/lma_revision.py",
+      "bytes": 3861,
+      "sha256": "45ff4a296b10efacc7e06bc62f16581ae32da4b166953ef9a6a6db4ec8d742bd",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/dependency_snapshot/revision_2026/lma_revision.py",
+        "units/fixed_residual/bundle/frozen/revision_2026/lma_revision.py",
+        "units/fresh_training_completed/frozen/revision_2026/lma_revision.py",
+        "units/fresh_training_inputs/frozen/revision_2026/lma_revision.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/lma_revision.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/lma_revision.py",
+        "units/retained_synthetic/frozen/revision_2026/lma_revision.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/prepare_lp_pdbbind.py",
+      "bytes": 7523,
+      "sha256": "7a7208537162f115ddc5c803ae6c5c931fffeaf2f50057dada591182bd46a70e",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/dependency_snapshot/revision_2026/prepare_lp_pdbbind.py",
+        "units/fixed_residual/bundle/frozen/revision_2026/prepare_lp_pdbbind.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/prepare_lp_pdbbind.py",
+        "units/shared_ligand_inputs/LMA/revision_2026/prepare_lp_pdbbind.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/pdbbind_rerun.py",
+      "bytes": 11839,
+      "sha256": "6a23a481d98e4b76cdfd05bc2a97118fc5c3ce93ac9596544211ddfa144c5794",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/dependency_snapshot/revision_2026/pdbbind_rerun.py",
+        "units/fixed_residual/bundle/frozen/revision_2026/pdbbind_rerun.py",
+        "units/fresh_training_completed/frozen/revision_2026/pdbbind_rerun.py",
+        "units/fresh_training_inputs/frozen/revision_2026/pdbbind_rerun.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/pdbbind_rerun.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/pdbbind_rerun.py",
+        "units/retained_synthetic/frozen/revision_2026/pdbbind_rerun.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+      "bytes": 8774,
+      "sha256": "344f10440e7dc2648bc535ffaac3ed8d819b8db23a77b94337faf883ce4e6314",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/models.py",
+        "units/fixed_residual/bundle/frozen/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+        "units/fresh_training_completed/frozen/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+        "units/fresh_training_inputs/frozen/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+        "units/retained_synthetic/frozen/revision_2026/neural_reviewer_study_2026_09_07/models.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/finite_neural_engine.py",
+      "bytes": 19928,
+      "sha256": "e3d0469742f0e3ca0fd4895f0a14f6108f0e4f6b663d30ce17e3bfb5fe66c24a",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/finite_neural_engine.py",
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/finite_neural_engine.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/finite_neural_engine.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/finite_neural_engine.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/finite_neural_engine.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_encoder.py",
+      "bytes": 2283,
+      "sha256": "835f3ead30ee3f3b4f8378d35d80ec36f0edd7f9ab212fbac1849388e0c619ab",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_encoder.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_encoder.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_scoring.py",
+      "bytes": 27310,
+      "sha256": "d138e206c5332279b59562fc02f7b5a0021eeeca4e3a6c40a11a51787e6105d6",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_scoring.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_scoring.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_data.py",
+      "bytes": 7180,
+      "sha256": "1ed044453121c0aa884d5704d0f8a622275c5459192ab23711af941f3d64f586",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_data.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_data.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_scoring_audit.py",
+      "bytes": 13133,
+      "sha256": "2612d9532108cf83dc7ad483283c8bfc7b20f54b9900ea498bb15f5104a84ebf",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_scoring_audit.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_scoring_audit.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_encoder_audit.py",
+      "bytes": 3969,
+      "sha256": "ec0d759065bd6f8b46d427014bcf92427f0a3232cfafc85fb16415f6b1e757f9",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_encoder_audit.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_encoder_audit.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_models.py",
+      "bytes": 5642,
+      "sha256": "8755cbf7072c868b751900324c5e326479cc2639b84fb0cadc1eb575c92891b4",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_models.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_models.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_engine_audit.py",
+      "bytes": 8510,
+      "sha256": "c0b60405aa050480ab405baea08f111cbd90d54b977c5c5964e3f704c28d3ada",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_engine_audit.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_engine_audit.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_selection.py",
+      "bytes": 5379,
+      "sha256": "709d1b8ef8d7ae6d9442709dab00b774f2b1179aad4210246d11cc4be7950077",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_selection.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_selection.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_gpu_audit.py",
+      "bytes": 12250,
+      "sha256": "662cee5dc1ee79aa777d800da142f27e6ec2e4f66d36f15000940de78dc40be5",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_gpu_audit.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_gpu_audit.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_execution.py",
+      "bytes": 12217,
+      "sha256": "f90643fce0a6fb862d5a82787a849382c93abb793ef05ea8edb244572e1d78ad",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_execution.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_execution.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_model_audit.py",
+      "bytes": 11916,
+      "sha256": "6bd1081747a0431dabd39063470057a23a647c30c4158e87f6746eb644f04f60",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_model_audit.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_model_audit.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_campaign_audit.py",
+      "bytes": 8513,
+      "sha256": "5636235ff62c5cb440a02f0e1c024b62f2bb8803f4a13130dd0eb2a29be4587a",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_campaign_audit.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_campaign_audit.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_selection_audit.py",
+      "bytes": 6925,
+      "sha256": "5fa2fb5e9ca7be15d1a36dff31ff724ceb555e802a3635fc07bc851db2cfa53f",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_selection_audit.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_selection_audit.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_campaign.py",
+      "bytes": 15506,
+      "sha256": "9a999ffb9bc6a833a87c4a038bdb016357c6bbb738c4787882b5e1a21ae261cf",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_campaign.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/sequence_campaign.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_models.py",
+      "bytes": 4679,
+      "sha256": "755e676ffb9563c9dd7d667b64e34442884e7d33e17afe5eaac27f0a8e8b41b3",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_models.py",
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_models.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_models.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_models.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_models.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_common.py",
+      "bytes": 5137,
+      "sha256": "fb8c948bbee7cd830a229106d348b1e4f6b68ee47221851903bb3240cd8009c0",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_common.py",
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_common.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_common.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_common.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_common.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_audit.py",
+      "bytes": 10142,
+      "sha256": "fd7ed938cdd82d09835bcc43b5f3d0ec521bac3a964191786568c733850bff59",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_audit.py",
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_audit.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_audit.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_audit.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_audit.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/closed_form.py",
+      "bytes": 6723,
+      "sha256": "ec1a1441ff00c6fc8eaf4ecdaece4cee46c6918a5be139171e79985068162add",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/closed_form.py",
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/closed_form.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/closed_form.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/first_cubic/closed_form.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/closed_form.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_models.py",
+      "bytes": 3076,
+      "sha256": "fd020d85a602ac6f47985e10bd704ba7ffa9e82018fe92ba284e49d7d7d228d7",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_models.py",
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_models.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_models.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_models.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/neural_models.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/generator.py",
+      "bytes": 3354,
+      "sha256": "ddb203241e5881507d40f687841b1a9672344615a1d2c14842cf76225c9fdc2b",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/generator.py",
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/generator.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/generator.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/first_cubic/generator.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/generator.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/adapter.py",
+      "bytes": 7900,
+      "sha256": "10e1ecc8276724b8b8bee24733ecd368db76c14497ef3844609c1ebdc90ba823",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/adapter.py",
+        "units/fresh_training_completed/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/adapter.py",
+        "units/fresh_training_inputs/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/adapter.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/first_cubic/adapter.py",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/adapter.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/vector_quadratic_span.py",
+      "bytes": 6650,
+      "sha256": "a12f2b382a72d06d46f3515c389c6b815398834ac10ef3a7cd767123e6daa55f",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/vector_quadratic_span.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/conditional_residual/vector_quadratic_span.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/native_costs.py",
+      "bytes": 8700,
+      "sha256": "e6395e091d6f83d954bc21854a9c7fd3be9fefdabc70dcc79cf40d68d375bd8b",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/native_costs.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/audit_campaign_control.py",
+      "bytes": 22661,
+      "sha256": "901d2215452629b29c17ffe12d47fb04c53b9aad36dc59df9671c8881fdf6195",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/audit_campaign_control.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/campaign_control.py",
+      "bytes": 25439,
+      "sha256": "c0d5b30900157903522074feeeb2703541974663773651fba8416e9f5b4cc946",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/campaign_control.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/audit_native_delivery.py",
+      "bytes": 15804,
+      "sha256": "8ae63ca3559ded718c23514581a737bd5d98d3afad0e27aaae566b3f5833b940",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/audit_native_delivery.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/native_test_producer.py",
+      "bytes": 2793,
+      "sha256": "0d9c405ae4b08fe55b42eac358c0a911a297609fdc96801a5149995b67c2d20b",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/native_test_producer.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/audit_models.py",
+      "bytes": 16992,
+      "sha256": "46d259e92ac598c011679d53865d696098d7ed7f83ecf231aac3ebb913168a99",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/audit_models.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/models.py",
+      "bytes": 5198,
+      "sha256": "308587c72981157eaf48d68495084786bef7a9857d3e089012155c7c941c92be",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/models.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/audit_native_inputs.py",
+      "bytes": 7590,
+      "sha256": "c3c7dd780c52ab7ccd1978c4d8ecf2dd4d383e19672a38beef02e776abf6ae72",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/audit_native_inputs.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/selection.py",
+      "bytes": 4156,
+      "sha256": "091c71c7ed23ce0d83d0d63614311bcadcea89ecc03ef202f1ca1c2958241481",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/selection.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/prepare_cubic_parent_fragment_v2.py",
+      "bytes": 5071,
+      "sha256": "7106756850bc83d6b097ed6f90cc5e8cf611f9fd94af088d36c518ec88841675",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/prepare_cubic_parent_fragment_v2.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/audit_cubic_cache.py",
+      "bytes": 7958,
+      "sha256": "492cf951e60c8536608656a39e1acbfe7e4919bf158289bd2ce344fe4d8a9e39",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/audit_cubic_cache.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/costs.py",
+      "bytes": 8656,
+      "sha256": "f7f9ab65d2b7061af0b6111d30e0b5609b0eab825b68a1d23629337613e425e7",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/costs.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/scoring.py",
+      "bytes": 15797,
+      "sha256": "16882432b3f1ef3434b6b387642a9bc4531f48079a997602e2224754cdd32be8",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/scoring.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/native_inputs.py",
+      "bytes": 9522,
+      "sha256": "f1f4b4758ec723c1a53e5c4a90318d691e5ebb054f1c3666921a537e14c7a757",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/native_inputs.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/native_cache.py",
+      "bytes": 3639,
+      "sha256": "07e9725024aa2245139f5fdd9dd4e28f7f1256558929f41684352d670080169e",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/native_cache.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/audit_scoring_costs.py",
+      "bytes": 18746,
+      "sha256": "93e7b67cc9ad5fb4f337f012248bdde566c16509d37a6a950bc0b4ce519e7b42",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/audit_scoring_costs.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/candidate_lifecycle.py",
+      "bytes": 21388,
+      "sha256": "a72ce0909b56d93c78a6a3fdd3fe7b96303d62cab292c45eb4e7d343388d5bfc",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/candidate_lifecycle.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/native_parent_bundle.py",
+      "bytes": 9795,
+      "sha256": "8c75cad9369cae737ff10c51102a47f82ee78ebd4eec42772cff364eead869e3",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/native_parent_bundle.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/cubic_linear_access.py",
+      "bytes": 9594,
+      "sha256": "bd559b47e5b33133fc3f8435cfcca7e3b71085ae8c31e9377ee3e4b4e94000eb",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/cubic_linear_access.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/conditional_residual/cubic_linear_access.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/campaign_lifecycle.py",
+      "bytes": 20037,
+      "sha256": "35541b6cd46a5ded4d73fc2562a3e94bf086099ab875bb223ef1607fb5dbf2e1",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/campaign_lifecycle.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/audit_native_costs.py",
+      "bytes": 10294,
+      "sha256": "ee65d885a28ec28da9da6c5cea1d749fe5225d26e2f0ccbd53eaf2e8b606f7a5",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/audit_native_costs.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/verify_linear_access_certificates.py",
+      "bytes": 6530,
+      "sha256": "4408bdaefaca58f84c288340967fc65ed088079f33dd5153a578e655e43143fa",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/verify_linear_access_certificates.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/conditional_residual/verify_linear_access_certificates.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/analyze_retained_results.py",
+      "bytes": 26578,
+      "sha256": "dc5831371a0d789a48958be0ee6a8c1424a4c79718a07b603d1239e4e5cc9ad9",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/analyze_retained_results.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/native_pipeline.py",
+      "bytes": 3339,
+      "sha256": "a153e9eebd1d9024d93f9f029f3298ee56aec711fb2f165099105f2d50fd0c67",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/native_pipeline.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/prepare_cubic_parent_fragment.py",
+      "bytes": 4991,
+      "sha256": "5ff9ca46e8f1a0c64484e133d4b0e9f0ebc834dd8a170224c337e92ba636e035",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/prepare_cubic_parent_fragment.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/native_profiles.py",
+      "bytes": 7884,
+      "sha256": "4c5ce338dd7a3e5176233031ffb928bb8153c07f08622fa59bf8af2f4d5165c0",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/native_profiles.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/record_activation_20260909.py",
+      "bytes": 5662,
+      "sha256": "d6235671321023f9d59cef6da39fc09715f73f71f7e58948be4f6a7a73da2de0",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/record_activation_20260909.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/execution.py",
+      "bytes": 12286,
+      "sha256": "7f5ce07fbdaad0f10f58a3d6f83864cc0681a889c2faa618be5973bd8dd265ad",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/execution.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/prepare_cubic_cache.py",
+      "bytes": 14663,
+      "sha256": "e7ab6276a29b9f0eab3336180280d9138c882c743daf5445f82f58b4d49e1cd0",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/prepare_cubic_cache.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/audit_execution.py",
+      "bytes": 16186,
+      "sha256": "5db0c47634a6c286306c0198378a5662ac6140f9a292ae0f101e9b026d16e182",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/audit_execution.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/audit_candidate_lifecycle.py",
+      "bytes": 17042,
+      "sha256": "c574caa932b6b8e3ba41893e1d693b5a62b4c3c1f3982a7e9e12d59a4628e228",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/audit_candidate_lifecycle.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/retained_analysis/check_molecular_training_behavior.py",
+      "bytes": 8511,
+      "sha256": "c792b1471c47aa8aa74b955147be2de0dc453c2cf9e9a5a1de218fe703323065",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/retained_analysis/check_molecular_training_behavior.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/radial_contacts.py",
+      "bytes": 2842,
+      "sha256": "80282338b5ea3e8a39748be009e722befa4235612bda66d17a97b2020247762d",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/radial_contacts.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/radial_contacts.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/audit_radial_contacts.py",
+      "bytes": 6278,
+      "sha256": "de97b0b228d83777e9b6e465b9fca92bb98cc7d3b0b45906ce939b2ea4a8a903",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/audit_radial_contacts.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/audit_radial_contacts.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/matched_execution.py",
+      "bytes": 12325,
+      "sha256": "042b841730f4f466bd75b8226cee70953aa64b7fdca7398810b7ca1cbcb340d2",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/matched_execution.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/matched_execution.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/matched_campaign.py",
+      "bytes": 11710,
+      "sha256": "5711d861ee26635b2c386cb3938782c936bbf5edbcf9c62ae3426a3ca891f5af",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/matched_campaign.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/matched_campaign.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/matched_scoring.py",
+      "bytes": 27455,
+      "sha256": "ac17a3b79439e3a34ed25546fe341c0d6cbd6a22fbd55cec7cc96b8724b6e80c",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/matched_scoring.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/matched_scoring.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/prepare_matched_tensors.py",
+      "bytes": 11164,
+      "sha256": "8d133811a449c86fed7eb3b931738065e17beb4d027643906e73a7161c483bfc",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/prepare_matched_tensors.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/prepare_matched_tensors.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/audit_matched_execution.py",
+      "bytes": 10908,
+      "sha256": "313e57f8ead2c919ab53b6bf9c6ec66182051bde5fa34240b0344fedc3b9c65e",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/audit_matched_execution.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/audit_matched_execution.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/matched_selection.py",
+      "bytes": 4479,
+      "sha256": "27bbe0d24156d7dea5d2cda8d5e923acc9fd469fde00d06fd3efd0d44b06f53f",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/matched_selection.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/matched_selection.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/matched_preprocessing_costs.py",
+      "bytes": 5318,
+      "sha256": "eb7e11c2b9d144449c330e9c08cdfd4048b050f563eb58f8a68732be21a820b3",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/matched_preprocessing_costs.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/matched_preprocessing_costs.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/audit_matched_models.py",
+      "bytes": 7631,
+      "sha256": "2c81763047d7c803ea0fcd463174b1f115550abac7cad084e49d55a9719104e4",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/audit_matched_models.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/audit_matched_models.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/audit_matched_selection_scoring.py",
+      "bytes": 12213,
+      "sha256": "f822b6707da626a97e8317f0ca05f07bea07272c52c46be81efe65ea865b749d",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/audit_matched_selection_scoring.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/audit_matched_selection_scoring.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/audit_matched_campaign.py",
+      "bytes": 7650,
+      "sha256": "1b44d7460eb2ea337bec2b2ce4667aea0d9c87f3dbc15cea13e83e1a7c103254",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/audit_matched_campaign.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/audit_matched_campaign.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/audit_matched_cohort_inputs.py",
+      "bytes": 16018,
+      "sha256": "d9e381813390ea7b97dafe7e2fd08de625cb8bd67973c2d04a776c1f1de96d5a",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/audit_matched_cohort_inputs.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/audit_matched_cohort_inputs.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/matched_gpu_audit.py",
+      "bytes": 11672,
+      "sha256": "4cce95b12100170036750ea74080d8dad3738a1477ca123ca360b9abd2da5e13",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/matched_gpu_audit.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/matched_gpu_audit.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/matched_models.py",
+      "bytes": 2321,
+      "sha256": "e4533de279284baa8eab78a524404e96dd0ad2f2981bd743851565ce15fb50da",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/matched_models.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/receptor_context/pocket_reconstruction/matched_models.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/LMA/revision_2026/data_interpretation_audit.py",
+      "bytes": 3495,
+      "sha256": "cf0e270cdfa808cb39b2be832e3a23d842fe9ef0fbd91fac00acf9db0afaeadc",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/dependency_snapshot/revision_2026/data_interpretation_audit.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/LMA/revision_2026/lma_revision.py",
+      "bytes": 3861,
+      "sha256": "45ff4a296b10efacc7e06bc62f16581ae32da4b166953ef9a6a6db4ec8d742bd",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/dependency_snapshot/revision_2026/lma_revision.py",
+        "units/fixed_residual/bundle/frozen/revision_2026/lma_revision.py",
+        "units/fresh_training_completed/frozen/revision_2026/lma_revision.py",
+        "units/fresh_training_inputs/frozen/revision_2026/lma_revision.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/lma_revision.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/lma_revision.py",
+        "units/retained_synthetic/frozen/revision_2026/lma_revision.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/LMA/revision_2026/pdb_reconstruction_audit.py",
+      "bytes": 3964,
+      "sha256": "7aee5c10b8c384cfee51b00180bede1db5b69f66d380a7613af9c1cba4532ad1",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/dependency_snapshot/revision_2026/pdb_reconstruction_audit.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/LMA/revision_2026/prepare_lp_pdbbind.py",
+      "bytes": 7523,
+      "sha256": "7a7208537162f115ddc5c803ae6c5c931fffeaf2f50057dada591182bd46a70e",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/dependency_snapshot/revision_2026/prepare_lp_pdbbind.py",
+        "units/fixed_residual/bundle/frozen/revision_2026/prepare_lp_pdbbind.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/prepare_lp_pdbbind.py",
+        "units/shared_ligand_inputs/LMA/revision_2026/prepare_lp_pdbbind.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/LMA/revision_2026/pdbbind_rerun.py",
+      "bytes": 11839,
+      "sha256": "6a23a481d98e4b76cdfd05bc2a97118fc5c3ce93ac9596544211ddfa144c5794",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/dependency_snapshot/revision_2026/pdbbind_rerun.py",
+        "units/fixed_residual/bundle/frozen/revision_2026/pdbbind_rerun.py",
+        "units/fresh_training_completed/frozen/revision_2026/pdbbind_rerun.py",
+        "units/fresh_training_inputs/frozen/revision_2026/pdbbind_rerun.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/pdbbind_rerun.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/pdbbind_rerun.py",
+        "units/retained_synthetic/frozen/revision_2026/pdbbind_rerun.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/LMA/revision_2026/neural_reviewer_study_2026_09_07/final_audit.py",
+      "bytes": 7089,
+      "sha256": "0123952d1ff06bfd31ad7911df5aa0addbef2073c1d3ef0a2971f21097555d7a",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/final_audit.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/LMA/revision_2026/neural_reviewer_study_2026_09_07/prefit_audit.py",
+      "bytes": 11287,
+      "sha256": "355266fe17c1b4aa8f1ead5cd05ac227941e25635a3b81649d1e6f7b5ef082fe",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/prefit_audit.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/neural_reviewer_study_2026_09_07/prefit_audit.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/LMA/revision_2026/neural_reviewer_study_2026_09_07/combine_results.py",
+      "bytes": 13335,
+      "sha256": "035b5d95443c92a0f97c01a1cab46d791941fda1ad21b08a35851d71563ea631",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/combine_results.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/LMA/revision_2026/neural_reviewer_study_2026_09_07/encoder_limitation_check.py",
+      "bytes": 2445,
+      "sha256": "628d38b22ab97300b94c1598f5c5dbffb959f49cb156e692a4d51791440d9a44",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/encoder_limitation_check.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/LMA/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+      "bytes": 8774,
+      "sha256": "344f10440e7dc2648bc535ffaac3ed8d819b8db23a77b94337faf883ce4e6314",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/models.py",
+        "units/fixed_residual/bundle/frozen/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+        "units/fresh_training_completed/frozen/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+        "units/fresh_training_inputs/frozen/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+        "units/receptor_replay/bundle/frozen/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+        "units/retained_synthetic/frozen/revision_2026/neural_reviewer_study_2026_09_07/models.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/LMA/revision_2026/neural_reviewer_study_2026_09_07/summarize.py",
+      "bytes": 15345,
+      "sha256": "8bfde2989967c1b899773741b304deca2e28389354707b11a7bfd317374b7886",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/summarize.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/LMA/revision_2026/neural_reviewer_study_2026_09_07/artifact_audit.py",
+      "bytes": 4979,
+      "sha256": "fcccf3bea54edc88d0c107d0c2f068dc843958d0cf5b02d245d47943d9a515be",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/artifact_audit.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/LMA/revision_2026/neural_reviewer_study_2026_09_07/profile_models.py",
+      "bytes": 5702,
+      "sha256": "a5c10eb0e2d34da958e55bcf54a31f67f5f565233a47d1a7e7e52d0ffb342103",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/profile_models.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/LMA/revision_2026/neural_reviewer_study_2026_09_07/study.py",
+      "bytes": 20338,
+      "sha256": "861f1f841c32a228aa2ce6bcd77324d63575cf61857bf07147bc02cb35108f41",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/study.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/neural_reviewer_study_2026_09_07/study.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/LMA/revision_2026/reviewer_completion_2026_09_08/components_width/arithmetic.py",
+      "bytes": 3630,
+      "sha256": "f617cd73ae392a1071642b8e0de6a3040ec6f6fcc900a901d1be99f6549f8c84",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/components_width/arithmetic.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/LMA/revision_2026/reviewer_completion_2026_09_08/components_width/component_models.py",
+      "bytes": 4896,
+      "sha256": "a62706cfadd068f62e61b628a0afaa5d1fbc259f1f177481e60fcb9a57867d12",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/components_width/component_models.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/LMA/revision_2026/reviewer_completion_2026_09_08/components_width/fit.py",
+      "bytes": 7583,
+      "sha256": "814fa58d739e7b7a200514b88ede16f874341578297e8c93d7c2a107c1414c89",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/components_width/fit.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/LMA/revision_2026/reviewer_completion_2026_09_08/components_width/campaign.py",
+      "bytes": 8334,
+      "sha256": "ebcb913f8eb208949720a173391cf604d328fc5a923ca6196505497aa33420fc",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/components_width/campaign.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/LMA/revision_2026/reviewer_completion_2026_09_08/components_width/audit.py",
+      "bytes": 9461,
+      "sha256": "0cfbdf58a81c6b67ef9b78e1a43d67bfda75de28e783c5ac3792480e849cfa47",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/components_width/audit.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/LMA/revision_2026/reviewer_completion_2026_09_08/components_width/analyze.py",
+      "bytes": 26833,
+      "sha256": "0192294121abdb0f1e238918228bbdc0c406bf979f48f37841d5c44e220b3b8a",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/components_width/analyze.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/LMA/revision_2026/reviewer_completion_2026_09_08/gate_readout/campaign.py",
+      "bytes": 8064,
+      "sha256": "998ffd6eaf312ff4125c5ee583b9cdaa834f1f685daba8ba56f38b7d72cfff33",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/gate_readout/campaign.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/gate_readout/campaign.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/LMA/revision_2026/reviewer_completion_2026_09_08/gate_readout/audit.py",
+      "bytes": 8818,
+      "sha256": "635635b4c0145945b0cb8eea74b943ee50be627d548d5ee24a28691317f197e3",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/gate_readout/audit.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/gate_readout/audit.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/LMA/revision_2026/reviewer_completion_2026_09_08/gate_readout/gate_models.py",
+      "bytes": 2982,
+      "sha256": "f2cb33b2f00ecb995a31db0b38bca39351d4031dea4018d38aac2763d3510d0b",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/gate_readout/gate_models.py",
+        "units/retained_diagnostic_sources/LMA/revision_2026/reviewer_completion_2026_09_08/gate_readout/gate_models.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/LMA/revision_2026/reviewer_completion_2026_09_08/gate_readout/analyze.py",
+      "bytes": 18197,
+      "sha256": "4f4be79b03933032d52392a5b4b317f2d9623e956f0a3066632c50c908c47175",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/gate_readout/analyze.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/LMA/revision_2026/reviewer_completion_2026_09_08/molecular_remaining/molecular_models.py",
+      "bytes": 6488,
+      "sha256": "c85257aaffbc07b52a58589abbd605c0b228a877c2376832525bb684eceabf19",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/remaining_molecular/molecular_models.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/LMA/revision_2026/reviewer_completion_2026_09_08/molecular_remaining/prefit_audit.py",
+      "bytes": 11328,
+      "sha256": "57bfd0b2bab1f4bec59f5280212f7a62d628efe93e800b73b96732c59fc0e0b4",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/remaining_molecular/prefit_audit.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/LMA/revision_2026/reviewer_completion_2026_09_08/molecular_remaining/molecular_data.py",
+      "bytes": 4421,
+      "sha256": "d0ba58b9e74c4e852739952546b0a966092b20a86c349d40f61bb48f1f8d1ae9",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/remaining_molecular/molecular_data.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/LMA/revision_2026/reviewer_completion_2026_09_08/molecular_remaining/campaign.py",
+      "bytes": 13877,
+      "sha256": "7ebf3bc1927429297e7a232f39baeffb06fca0523947f6c537c1df058e9eec67",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/remaining_molecular/campaign.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/LMA/revision_2026/reviewer_completion_2026_09_08/molecular_remaining/analyze.py",
+      "bytes": 31635,
+      "sha256": "d3df6b5eaf5869199a08e5adac45f7471ac244ddd256909fb7fafe6f87240b64",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/remaining_molecular/analyze.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/LMA/revision_2026/reviewer_completion_2026_09_08/molecular_remaining/overlap_sensitivity.py",
+      "bytes": 5956,
+      "sha256": "4e6e007edc2fbd124f62234c87b5d190a14681cc11091f1664dbdb1e327db34e",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/remaining_molecular/overlap_sensitivity.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/LMA/revision_2026/neural_reviewer_study_2026_09_07/cardinality_controls/analyze.py",
+      "bytes": 13835,
+      "sha256": "de9720f61c8fd6581bf2ec40b90bfafeed48b3f2218565c4e4d3a06fc716f4e6",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/cardinality_controls/analyze.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/LMA/revision_2026/neural_reviewer_study_2026_09_07/cardinality_controls/controls.py",
+      "bytes": 15621,
+      "sha256": "e736fc35941e9b8845c748dcaef924ad34068c93a5d10506dbb063c66e2bb28d",
+      "origin": "Unchanged author-origin code in historical public14",
+      "original14_members": [
+        "units/core_cardinality_molecular/cardinality_controls/controls.py"
+      ]
+    },
+    {
+      "path": "scientific_sources/units/fresh_training_completed/requirements.txt",
+      "bytes": 79,
+      "sha256": "088ac45d5b6708716b1582b6fbb0fc61fcc4a32d8da0b4ca799b98d189dba224",
+      "origin": "Unchanged historical requirements; current installation unvalidated"
+    },
+    {
+      "path": "scientific_sources/units/fresh_training_inputs/requirements.txt",
+      "bytes": 79,
+      "sha256": "088ac45d5b6708716b1582b6fbb0fc61fcc4a32d8da0b4ca799b98d189dba224",
+      "origin": "Unchanged historical requirements; current installation unvalidated"
+    },
+    {
+      "path": "scientific_sources/units/receptor_replay/bundle/requirements-replay.txt",
+      "bytes": 26,
+      "sha256": "9e4f1ffdf47466e5cc77f7ee5d649f2c044266c18e7c667d8c76493c6fea0e33",
+      "origin": "Unchanged historical requirements; current installation unvalidated"
+    },
+    {
+      "path": "scientific_sources/units/retained_synthetic/requirements-replay.txt",
+      "bytes": 79,
+      "sha256": "088ac45d5b6708716b1582b6fbb0fc61fcc4a32d8da0b4ca799b98d189dba224",
+      "origin": "Unchanged historical requirements; current installation unvalidated"
+    },
+    {
+      "path": "scientific_sources/n20_diagnostics/native_witness/input/witness/assign_native_n20_witness.py",
+      "bytes": 5629,
+      "sha256": "61b544068ccd0f478970d456eeb0a27e2ae064ce36fed5d177e3c994dd349013",
+      "origin": "Project-original accepted nativeN20 source-only capture",
+      "original_evidence_archive": "LBOIA_native_N20_witness_local_verification_2026-10-06.zip",
+      "archive_member": "input/witness/assign_native_n20_witness.py"
+    },
+    {
+      "path": "scientific_sources/n20_diagnostics/native_witness/verify_native_witness.py",
+      "bytes": 17328,
+      "sha256": "1888687d7864d76681b711e95471131aeed66b5fc26833d0b392d19c63b9a2a2",
+      "origin": "Project-original accepted nativeN20 source-only capture",
+      "original_evidence_archive": "LBOIA_native_N20_witness_local_verification_2026-10-06.zip",
+      "archive_member": "verify_native_witness.py"
+    },
+    {
+      "path": "scientific_sources/n20_diagnostics/fp32_recovery/run_recovery_test.py",
+      "bytes": 21557,
+      "sha256": "3c6afc53ee161b97235582784cb07cfbd3f64e9ae40f8b0c033290565a5ab24b",
+      "origin": "Project-original accepted nativeN20 source-only capture",
+      "original_evidence_archive": "LBOIA_N20_native_chain_witness_recovery_pilot_2026-10-06_evidence.zip",
+      "archive_member": "run_recovery_test.py"
+    },
+    {
+      "path": "scientific_sources/n20_diagnostics/fp32_recovery/training_chain_checks.py",
+      "bytes": 7724,
+      "sha256": "7053156503e5c7652b5a39809276d6fdc8b53334263764a7bf98a729f2344c49",
+      "origin": "Project-original accepted nativeN20 source-only capture",
+      "original_evidence_archive": "LBOIA_N20_native_chain_witness_recovery_pilot_2026-10-06_evidence.zip",
+      "archive_member": "training_chain_checks.py"
+    },
+    {
+      "path": "scientific_sources/n20_diagnostics/fp32_recovery/score_actual_rows.py",
+      "bytes": 5893,
+      "sha256": "6c9f847480e81c6ad57c2a42d2f4f6db8e796fbc9c54dbf1e0c9bd3531a22800",
+      "origin": "Project-original accepted nativeN20 source-only capture",
+      "original_evidence_archive": "LBOIA_N20_native_chain_witness_recovery_pilot_2026-10-06_evidence.zip",
+      "archive_member": "score_actual_rows.py"
+    },
+    {
+      "path": "scientific_sources/n20_diagnostics/fp32_recovery/diagnose_scoring_guard.py",
+      "bytes": 4521,
+      "sha256": "c1ae80592f2ac064b5d5ac8d944797f1070659094385c6bb71eddf2f1a588277",
+      "origin": "Project-original accepted nativeN20 source-only capture",
+      "original_evidence_archive": "LBOIA_N20_native_chain_witness_recovery_pilot_2026-10-06_evidence.zip",
+      "archive_member": "diagnose_scoring_guard.py"
+    },
+    {
+      "path": "scientific_sources/n20_diagnostics/fp32_recovery/verify_saved_results.py",
+      "bytes": 5500,
+      "sha256": "d113a22988ede29a99603ee44eb4ed13f449a5e0c997517eee6b16ba2f97393b",
+      "origin": "Project-original accepted nativeN20 source-only capture",
+      "original_evidence_archive": "LBOIA_N20_native_chain_witness_recovery_pilot_2026-10-06_evidence.zip",
+      "archive_member": "verify_saved_results.py"
+    },
+    {
+      "path": "scientific_sources/n20_diagnostics/fp32_recovery/support/first_pilot.py",
+      "bytes": 26352,
+      "sha256": "a127068abb4902df2fbdde1969f4c8941c87d3e3294443a0187a76c9b806faa9",
+      "origin": "Project-original accepted nativeN20 source-only capture",
+      "original_evidence_archive": "LBOIA_N20_native_chain_witness_recovery_pilot_2026-10-06_evidence.zip",
+      "archive_member": "support/first_pilot.py"
+    },
+    {
+      "path": "scientific_sources/n20_diagnostics/warm_fp64/run_precision_fit.py",
+      "bytes": 14216,
+      "sha256": "ce328ce88ee2cc315a94ea5441c3fcc3c8625aeff10c7de786551573e6c6cd80",
+      "origin": "Project-original accepted nativeN20 source-only capture",
+      "original_evidence_archive": "LBOIA_N20_seed100_float64_precision_pilot_2026-10-06_evidence.zip",
+      "archive_member": "run_precision_fit.py"
+    },
+    {
+      "path": "scientific_sources/n20_diagnostics/random_fp64/run_random_precision.py",
+      "bytes": 15234,
+      "sha256": "9b4b5433facb897f21110f466935e9df7e0d91f3a083fe4126fe0481780d0786",
+      "origin": "Project-original accepted nativeN20 source-only capture",
+      "original_evidence_archive": "LBOIA_N20_three_random_initialization_float64_pilot_2026-10-06_evidence.zip",
+      "archive_member": "run_random_precision.py"
+    },
+    {
+      "path": "scientific_sources/table_export/export_retained_tables.py",
+      "bytes": 14250,
+      "sha256": "bf937d021758f5ae5bbc3bb1391fa8764ed61f49fc48d3db55c1841f70fb7a09",
+      "origin": "Project-original formatter; private aggregate/presentation inputs excluded; runtime/output unvalidated"
+    }
+  ]
+}

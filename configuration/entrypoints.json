@@ -1,0 +1,28 @@
+{
+  "working_root": "Complete extracted historical14 evidence, not source-only repository root",
+  "entries": [
+    {
+      "id": "synthetic-records",
+      "source": "units/retained_synthetic/public_replay.py",
+      "arguments": [
+        "records",
+        "--output",
+        "{output}"
+      ],
+      "scope": "Saved-prediction record calculations; historical archived records-mode execution; not rerun now",
+      "requires": "Complete original14 units/inputs/manifest and scientific dependencies",
+      "output_mode": "external_argument"
+    },
+    {
+      "id": "receptor-records",
+      "source": "units/receptor_replay/bundle/replay.py",
+      "arguments": [
+        "records"
+      ],
+      "scope": "Retained receptor record calculations; no current public-layout execution claimed",
+      "requires": "Complete original bundle, frozen inputs/manifest and scientific dependencies; source forces CPU and one thread; use a fresh extracted working copy because reports are written inside the bundle",
+      "output_mode": "fixed_in_bundle",
+      "output_relative_to_evidence_root": "units/receptor_replay/bundle/replay_reports"
+    }
+  ]
+}

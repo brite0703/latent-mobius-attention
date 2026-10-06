@@ -1,0 +1,73 @@
+{
+  "scope": "Result location to source/record availability; not re-execution evidence",
+  "rows": [
+    {
+      "location": "Tables 1-3",
+      "sources": [
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/first_cubic/",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/hierarchical_sequence/"
+      ],
+      "records": "Historical14 retained_synthetic and original09 tables/histories",
+      "limit": "Retained records/replay; not full fresh comparative fitting"
+    },
+    {
+      "location": "Tables 4-5",
+      "sources": [
+        "units/receptor_replay/bundle/"
+      ],
+      "records": "Historical09 tables/receptor_sequence/sequence_all_seed_metrics.csv; historical14 receptor bundle",
+      "limit": "Frozen tensor inputs; upstream coordinate reconstruction remains unvalidated"
+    },
+    {
+      "location": "Tables 6-8",
+      "sources": [
+        "units/core_cardinality_molecular/",
+        "units/remaining_molecular/",
+        "units/components_width/",
+        "units/gate_readout/"
+      ],
+      "records": "Historical09/14 per-seed controls, profiles and summaries",
+      "limit": "Original guards retained; no current report execution"
+    },
+    {
+      "location": "Table 9 and additional profiles/metrics",
+      "sources": [
+        "units/core_cardinality_molecular/profile_models.py"
+      ],
+      "records": [
+        "Historical09 units/core_cardinality_molecular/tables/all_22_model_profiles.csv",
+        "Historical09 tables/molecular_remaining_selected_seeds.csv",
+        "Historical09 additional_evidence/molecular_remaining/profiles.json",
+        "Historical09 additional_evidence/receptor_context/sequence_profiles.json"
+      ],
+      "limit": "48 displayed procedures; batch1,remaining90 selected predictor and per-seedRMSE/MAE/Pearson records separate; no new profiling/equal-compute claim"
+    },
+    {
+      "location": "Tables 10-11 / routing and clipping diagnostics",
+      "sources": [
+        "units/components_width/",
+        "units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/"
+      ],
+      "records": "Historical 09/14 retained routing summaries and paired clipping records",
+      "limit": "Existing retained diagnostics; no current fitting, record recalculation or metric audit"
+    },
+    {
+      "location": "Tables 12-13/current692 correction",
+      "sources": [
+        "table_export/export_retained_tables.py"
+      ],
+      "records": "Current aggregates/correction records remain in private author delivery",
+      "limit": "Formatter source only; six private aggregates and presentation metadata excluded; output equivalence unvalidated; old release not relabeled as current analysis"
+    },
+    {
+      "location": "Appendix F / Table 14 / native N20",
+      "sources": [
+        "n20_diagnostics/",
+        "units/fresh_training_inputs/frozen/lma.py"
+      ],
+      "records": "Source-only current update; captured datasets/states/checkpoints/report payloads not newly published",
+      "limit": "Witness,initialization/precision and original population benchmark distinct; public-layout execution unvalidated"
+    }
+  ]
+}

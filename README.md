@@ -1,48 +1,26 @@
-# Latent Möbius Attention: Bounded-Order Interaction Heads
+# Latent Bounded-Order Interaction Attention (LBOIA)
 
-Jih-Jeng Huang and Chin-Yi Chen
+Bounded source and reproducibility-guide update, 6 October 2026. This is the approved descriptive name for the unchanged architecture previously called Latent Möbius Attention (LMA). Historical paths, modules, checkpoint identifiers and release v2026.09.16 retain their identities.
 
-Scientific sources and retained experimental records for the manuscript. The versioned release provides the exact four scientific archives prepared for the 16 September 2026 revision. The manuscript and response letter are submitted separately to the journal.
+Original study programs are now directly inspectable under scientific_sources. Project-original native N20 source captures and the retained-summary formatter are provided with their explicit input/runtime boundaries. configuration records environments, entrypoints, source identities and result crosswalks. See docs for acquisition, commands, validation and publication scope.
 
-## Download
+## Bounded entry checks
 
-Use [release v2026.09.16](https://github.com/brite0703/latent-mobius-attention/releases/tag/v2026.09.16). Expand its **Assets** list to download the following files.
+~~~bash
+python3 -I -B tools/check_sources.py
+python3 -I -B tools/command_plan.py synthetic-records --evidence-root /absolute/extracted14 --output /absolute/new-record-output
+~~~
 
-| File | Size (decimal MB) | Contents |
-| --- | ---: | --- |
-| [09_reviewer_records.zip](https://github.com/brite0703/latent-mobius-attention/releases/download/v2026.09.16/09_reviewer_records.zip) | 15.79 | Per-seed tables, measured costs, learning curves, routing arrays and diagnostic recalculations. |
-| [12_training_inputs.zip](https://github.com/brite0703/latent-mobius-attention/releases/download/v2026.09.16/12_training_inputs.zip) | 3.39 | Inputs and programs for the three-case CPU training example. |
-| [13_training_completed.zip](https://github.com/brite0703/latent-mobius-attention/releases/download/v2026.09.16/13_training_completed.zip) | 4.87 | Completed reference outputs for that training example. |
-| [14_scientific_evidence.zip](https://github.com/brite0703/latent-mobius-attention/releases/download/v2026.09.16/14_scientific_evidence.zip) | 577.71 | Experiment sources, retained tensors, candidate and selection records, checkpoints, predictions, costs and provenance across thirteen scientific units. |
+The first inspects bytes and syntax without importing scientific programs. The second prints a plan. Original scientific commands require the complete historical evidence root and original guards; downloading code does not validate those workflows.
 
-The automatically generated GitHub **Source code** downloads contain this repository's guide files, not the experimental archives. Download the named ZIP assets above. Files 12 and 13 are convenient separate copies of the corresponding units also contained in file 14; they are not additional experiments.
+## Historical public evidence
 
-## Check and use the records
+The [v2026.09.16 release](https://github.com/brite0703/latent-mobius-attention/releases/tag/v2026.09.16), tag, assets and SHA256SUMS are preserved. Download its named 09_reviewer_records.zip, 12_training_inputs.zip, 13_training_completed.zip and 14_scientific_evidence.zip when their retained inputs are required. The GitHub source archive for this current commit contains code/guides; it does not replace those evidence assets.
 
-Compare the downloaded archives with [SHA256SUMS](SHA256SUMS). The hashes bind this release to the reviewed scientific files; the archives have not been rewritten for GitHub.
+CITATION.cff continues to identify that dated evidence dataset under its historical title. Cite the fixed commit URL separately for this source update.
 
-Extract file 14 to a short directory, for example `C:\LMA-evidence` on Windows. Some preserved paths are long. In the extracted directory, `python -I -B verify_files.py` checks the supplied files against the archive's manifest using only the Python standard library (Python 3.9 or later). This is a file-integrity check, not a model evaluation.
+The historical synthetic/receptor checks concern retained checkpoints/records. The historical CPU training example contains six fits and three choices. No new fitting, broad inference, profiling or numerical reanalysis was performed for this source publication. Full fresh all-comparison training and upstream molecular reconstruction remain unvalidated.
 
-Read `EVIDENCE_GUIDE.md` and `PUBLIC_REPLAY.md` in file 14 before running an experiment. Source programs and their applicable dependency specifications are included inside the corresponding scientific units. Keep newly generated outputs outside the extracted archive.
+Current 692-contrast aggregates and native N20 input/result payloads remain outside this new publication. Source-onlyN20 captures retain original paths and assumptions; clean public-layout execution is unvalidated. The table formatter's private aggregate/caption inputs are excluded and its output equivalence is unvalidated. [Validation](docs/VALIDATION.md) distinguishes these limits from completed source/plan checks.
 
-## Execution scope
-
-The synthetic collection contains 1,560 candidates and 780 validation choices. Its archived records-mode check regenerates inputs, reconstructs selections and recalculates metrics from saved predictions. The archived complete synthetic and receptor inference runs concern 780 and 130 retained predictors, respectively. These checks do not constitute fresh fitting or independent statistical replication.
-
-Files 12 and 13 provide a separate CPU training example with six fits and three choices: order-two LMA on parity of length ten, the cubic target and a hierarchy of depth three. This example does not retrain all comparison methods.
-
-The collection does not provide a single validated end-to-end procedure for fresh training of every comparison or reconstruction of every upstream molecular input. Original capture paths, historical protocols and execution receipts remain in the scientific units. Dated notes about earlier packaging and deposition status describe those earlier captures, not the current hosting status. No scientific result was changed or experiment rerun to prepare this release.
-
-## Provenance and reuse
-
-Retain the upstream notices included in the archives. In particular, the LP-PDBBind notice is specific to its original software and documentation and is not an unrestricted grant for all upstream annotations. Its pinned source is [THGLab/LP-PDBBind at cc363f80a6a696d562f290a87aa20173e60f6c52](https://github.com/THGLab/LP-PDBBind/blob/cc363f80a6a696d562f290a87aa20173e60f6c52/LICENSE.txt). The archive records the separate provenance of public PDB coordinate sources and derived tensors.
-
-No additional blanket licence is granted for the collection. Existing upstream terms remain applicable.
-
-## Version and availability
-
-Cite the versioned release used in an analysis rather than an unversioned repository snapshot:
-
-J.-J. Huang and C.-Y. Chen, *Scientific evidence for Latent Möbius Attention: Bounded-Order Interaction Heads*, version v2026.09.16, GitHub, 2026. https://github.com/brite0703/latent-mobius-attention/releases/tag/v2026.09.16
-
-The released evidence will remain available after manuscript acceptance. If storage is migrated, preserve this version and its checksums and provide a link to the replacement archive.
+Use the fixed commit SHA/URL for this source update alongside the historical release version used for records. No new release tag is implied by the dated guide. Manuscripts, correspondence, private inputs and third-party datasets are excluded. [Reuse](docs/REUSE.md) preserves applicable terms without adding a blanket licence.
