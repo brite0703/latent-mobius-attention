@@ -1,5 +1,5 @@
 {
-  "scope": "Copied-source identities/provenance, not execution validation",
+  "scope": "Source identities/provenance including public entry plumbing; not scientific execution validation",
   "historical_public_release": "https://github.com/brite0703/latent-mobius-attention/releases/tag/v2026.09.16",
   "files": [
     {
@@ -3206,6 +3206,48 @@
       "bytes": 14250,
       "sha256": "bf937d021758f5ae5bbc3bb1391fa8764ed61f49fc48d3db55c1841f70fb7a09",
       "origin": "Project-original formatter; private aggregate/presentation inputs excluded; runtime/output unvalidated"
+    },
+    {
+      "path": "tools/public_entry_support.py",
+      "bytes": 13007,
+      "sha256": "cf3e9ffcffa4f50c1939a2f16b6d2b535bcbc56a244258e44aa684a5de9e41e6",
+      "origin": "New public entry plumbing and metadata; bounded validation scope in docs/VALIDATION.md"
+    },
+    {
+      "path": "tools/n20_entry.py",
+      "bytes": 1757,
+      "sha256": "3ee79248a3dbae2a7a0a12b0a077012a01f51f0bc221e03cd55a5d03f60045b6",
+      "origin": "New public entry plumbing and metadata; bounded validation scope in docs/VALIDATION.md"
+    },
+    {
+      "path": "tools/fixed_report_entry.py",
+      "bytes": 3054,
+      "sha256": "72635e026bbdeab316181a493da2ae025824c1fe8b572cd2881be71400017718",
+      "origin": "New public entry plumbing and metadata; bounded validation scope in docs/VALIDATION.md"
+    },
+    {
+      "path": "tools/table_entry.py",
+      "bytes": 6452,
+      "sha256": "ff080d094072678be215c1068fdfae63a19f9ad558545dfd294767606d16e07b",
+      "origin": "New public entry plumbing and metadata; bounded validation scope in docs/VALIDATION.md"
+    },
+    {
+      "path": "scientific_sources/n20_diagnostics/fp32_recovery/support/verify_inputs.py",
+      "bytes": 2340,
+      "sha256": "eaf81b55e4372f31ffb513240940cf2182a4a84efef2f3d3b495e2e7c89445cb",
+      "origin": "New public entry plumbing and metadata; bounded validation scope in docs/VALIDATION.md"
+    },
+    {
+      "path": "configuration/public_entrypoints.json",
+      "bytes": 11664,
+      "sha256": "62dc93056e099e8366b2f5fee7e272442fee5b264461446062cc24cfd308cdcd",
+      "origin": "New public entry plumbing and metadata; bounded validation scope in docs/VALIDATION.md"
+    },
+    {
+      "path": "tests/test_public_entrypoints.py",
+      "origin": "New public entry tests; no scientific workflow execution",
+      "bytes": 15163,
+      "sha256": "e61483317268deb59b7b32dd842bbc52ec2817c7ec7906ca0984a980dd43d5c7"
     }
   ]
 }

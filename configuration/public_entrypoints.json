@@ -1,0 +1,255 @@
+{
+  "schema_version": 1,
+  "baseline_commit": "50472812494054d3c8ea03efe256f3b3b2e47bdf",
+  "scope": "Public source identity, code layout, metadata schema and guarded definition imports; no scientific execution validation",
+  "source_records": {
+    "public_verify_inputs": {
+      "source": "scientific_sources/n20_diagnostics/fp32_recovery/support/verify_inputs.py",
+      "bytes": 2340,
+      "sha256": "eaf81b55e4372f31ffb513240940cf2182a4a84efef2f3d3b495e2e7c89445cb",
+      "layout_path": "lboia_routing_parity_pilot_20261006/verify_inputs.py"
+    },
+    "first_pilot": {
+      "source": "scientific_sources/n20_diagnostics/fp32_recovery/support/first_pilot.py",
+      "bytes": 26352,
+      "sha256": "a127068abb4902df2fbdde1969f4c8941c87d3e3294443a0187a76c9b806faa9",
+      "layout_path": "lboia_routing_parity_pilot_20261006/pilot.py"
+    },
+    "chain_checks": {
+      "source": "scientific_sources/n20_diagnostics/fp32_recovery/training_chain_checks.py",
+      "bytes": 7724,
+      "sha256": "7053156503e5c7652b5a39809276d6fdc8b53334263764a7bf98a729f2344c49",
+      "layout_path": "lboia_n20_witness_recovery_pilot_20261006/training_chain_checks.py"
+    },
+    "n20_fp32": {
+      "source": "scientific_sources/n20_diagnostics/fp32_recovery/run_recovery_test.py",
+      "bytes": 21557,
+      "sha256": "3c6afc53ee161b97235582784cb07cfbd3f64e9ae40f8b0c033290565a5ab24b",
+      "layout_path": "lboia_n20_witness_recovery_pilot_20261006/run_recovery_test.py"
+    },
+    "n20_warm": {
+      "source": "scientific_sources/n20_diagnostics/warm_fp64/run_precision_fit.py",
+      "bytes": 14216,
+      "sha256": "ce328ce88ee2cc315a94ea5441c3fcc3c8625aeff10c7de786551573e6c6cd80",
+      "layout_path": "lboia_n20_seed100_fp64_precision_pilot_20261006/run_precision_fit.py"
+    },
+    "n20_random": {
+      "source": "scientific_sources/n20_diagnostics/random_fp64/run_random_precision.py",
+      "bytes": 15234,
+      "sha256": "9b4b5433facb897f21110f466935e9df7e0d91f3a083fe4126fe0481780d0786",
+      "layout_path": "lboia_n20_random_init_fp64_pilot_20261006/run_random_precision.py"
+    },
+    "n20_native": {
+      "source": "scientific_sources/n20_diagnostics/native_witness/verify_native_witness.py",
+      "bytes": 17328,
+      "sha256": "1888687d7864d76681b711e95471131aeed66b5fc26833d0b392d19c63b9a2a2",
+      "layout_path": "lboia_parity_native_control_20261006/verify_native_witness.py"
+    },
+    "native_assignment": {
+      "source": "scientific_sources/n20_diagnostics/native_witness/input/witness/assign_native_n20_witness.py",
+      "bytes": 5629,
+      "sha256": "61b544068ccd0f478970d456eeb0a27e2ae064ce36fed5d177e3c994dd349013",
+      "layout_path": "lboia_parity_native_control_20261006/input/witness/assign_native_n20_witness.py"
+    },
+    "fixed_report": {
+      "source": "scientific_sources/units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual/analyze_retained_results.py",
+      "bytes": 26578,
+      "sha256": "dc5831371a0d789a48958be0ee6a8c1424a4c79718a07b603d1239e4e5cc9ad9"
+    },
+    "table_formatter": {
+      "source": "scientific_sources/table_export/export_retained_tables.py",
+      "bytes": 14250,
+      "sha256": "bf937d021758f5ae5bbc3bb1391fa8764ed61f49fc48d3db55c1841f70fb7a09"
+    }
+  },
+  "n20": {
+    "model_sources": [
+      {
+        "source": "scientific_sources/units/retained_synthetic/frozen/lma.py",
+        "logical_path": "LMA/lma.py",
+        "bytes": 19938,
+        "sha256": "5f62f77ef974c007ac837b427ec1fe1fa0600cf84de6d7fa4fcf44cfa3970b53",
+        "layout_path": "lboia_routing_parity_pilot_20261006/original_workspace/LMA/lma.py"
+      },
+      {
+        "source": "scientific_sources/LMA/pdbbind_tensors_experiment.py",
+        "logical_path": "LMA/pdbbind_tensors_experiment.py",
+        "bytes": 15798,
+        "sha256": "8117371135cd1e8f1aecdbff430169779129b6a8f84d320aef3c8056b503d22f",
+        "layout_path": "lboia_routing_parity_pilot_20261006/original_workspace/LMA/pdbbind_tensors_experiment.py"
+      },
+      {
+        "source": "scientific_sources/LMA/revision_2026/lma_revision.py",
+        "logical_path": "LMA/revision_2026/lma_revision.py",
+        "bytes": 3861,
+        "sha256": "45ff4a296b10efacc7e06bc62f16581ae32da4b166953ef9a6a6db4ec8d742bd",
+        "layout_path": "lboia_routing_parity_pilot_20261006/original_workspace/LMA/revision_2026/lma_revision.py"
+      },
+      {
+        "source": "scientific_sources/LMA/revision_2026/pdbbind_rerun.py",
+        "logical_path": "LMA/revision_2026/pdbbind_rerun.py",
+        "bytes": 11839,
+        "sha256": "6a23a481d98e4b76cdfd05bc2a97118fc5c3ce93ac9596544211ddfa144c5794",
+        "layout_path": "lboia_routing_parity_pilot_20261006/original_workspace/LMA/revision_2026/pdbbind_rerun.py"
+      },
+      {
+        "source": "scientific_sources/LMA/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+        "logical_path": "LMA/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+        "bytes": 8774,
+        "sha256": "344f10440e7dc2648bc535ffaac3ed8d819b8db23a77b94337faf883ce4e6314",
+        "layout_path": "lboia_routing_parity_pilot_20261006/original_workspace/LMA/revision_2026/neural_reviewer_study_2026_09_07/models.py"
+      },
+      {
+        "source": "scientific_sources/LMA/revision_2026/neural_reviewer_study_2026_09_07/study.py",
+        "logical_path": "LMA/revision_2026/neural_reviewer_study_2026_09_07/study.py",
+        "bytes": 20338,
+        "sha256": "861f1f841c32a228aa2ce6bcd77324d63575cf61857bf07147bc02cb35108f41",
+        "layout_path": "lboia_routing_parity_pilot_20261006/original_workspace/LMA/revision_2026/neural_reviewer_study_2026_09_07/study.py"
+      },
+      {
+        "source": "scientific_sources/LMA/revision_2026/reviewer_completion_2026_09_08/components_width/component_models.py",
+        "logical_path": "LMA/revision_2026/reviewer_completion_2026_09_08/components_width/component_models.py",
+        "bytes": 4896,
+        "sha256": "a62706cfadd068f62e61b628a0afaa5d1fbc259f1f177481e60fcb9a57867d12",
+        "layout_path": "lboia_routing_parity_pilot_20261006/original_workspace/LMA/revision_2026/reviewer_completion_2026_09_08/components_width/component_models.py"
+      },
+      {
+        "source": "scientific_sources/LMA/revision_2026/reviewer_completion_2026_09_08/components_width/fit.py",
+        "logical_path": "LMA/revision_2026/reviewer_completion_2026_09_08/components_width/fit.py",
+        "bytes": 7583,
+        "sha256": "814fa58d739e7b7a200514b88ede16f874341578297e8c93d7c2a107c1414c89",
+        "layout_path": "lboia_routing_parity_pilot_20261006/original_workspace/LMA/revision_2026/reviewer_completion_2026_09_08/components_width/fit.py"
+      },
+      {
+        "source": "scientific_sources/units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_models.py",
+        "logical_path": "LMA/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_models.py",
+        "bytes": 4679,
+        "sha256": "755e676ffb9563c9dd7d667b64e34442884e7d33e17afe5eaac27f0a8e8b41b3",
+        "layout_path": "lboia_routing_parity_pilot_20261006/original_workspace/LMA/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_models.py"
+      },
+      {
+        "source": "scientific_sources/units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_common.py",
+        "logical_path": "LMA/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_common.py",
+        "bytes": 5137,
+        "sha256": "fb8c948bbee7cd830a229106d348b1e4f6b68ee47221851903bb3240cd8009c0",
+        "layout_path": "lboia_routing_parity_pilot_20261006/original_workspace/LMA/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_common.py"
+      },
+      {
+        "source": "scientific_sources/units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/campaign.py",
+        "logical_path": "LMA/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/campaign.py",
+        "bytes": 15097,
+        "sha256": "4bbc88db6a465bcda332fdb943629b4c03a0e47f116b375637868b13e1163372",
+        "layout_path": "lboia_routing_parity_pilot_20261006/original_workspace/LMA/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/campaign.py"
+      }
+    ],
+    "first_layout": "lboia_routing_parity_pilot_20261006",
+    "layout_sources": [
+      "public_verify_inputs",
+      "first_pilot",
+      "chain_checks",
+      "n20_fp32",
+      "n20_warm",
+      "n20_random",
+      "n20_native",
+      "native_assignment"
+    ],
+    "entries": {
+      "fp32": {
+        "source": "scientific_sources/n20_diagnostics/fp32_recovery/run_recovery_test.py",
+        "layout_path": "lboia_n20_witness_recovery_pilot_20261006/run_recovery_test.py"
+      },
+      "warm-fp64": {
+        "source": "scientific_sources/n20_diagnostics/warm_fp64/run_precision_fit.py",
+        "layout_path": "lboia_n20_seed100_fp64_precision_pilot_20261006/run_precision_fit.py"
+      },
+      "random-fp64": {
+        "source": "scientific_sources/n20_diagnostics/random_fp64/run_random_precision.py",
+        "layout_path": "lboia_n20_random_init_fp64_pilot_20261006/run_random_precision.py"
+      },
+      "native": {
+        "source": "scientific_sources/n20_diagnostics/native_witness/verify_native_witness.py",
+        "layout_path": "lboia_parity_native_control_20261006/verify_native_witness.py"
+      }
+    },
+    "helper_scope": "New public layout plumbing only; original scientific input and execution guards are not implemented or replaced",
+    "definition_omissions": [
+      {
+        "source": "scientific_sources/LMA/revision_2026/neural_reviewer_study_2026_09_07/models.py",
+        "kind": "assignment",
+        "target": "SIZES",
+        "callable": "head_sizes",
+        "args": []
+      },
+      {
+        "source": "scientific_sources/units/retained_synthetic/frozen/revision_2026/reviewer_completion_2026_09_08/synthetic_parity/parity_models.py",
+        "kind": "assignment",
+        "target": "SIZES",
+        "callable": "sizes",
+        "args": []
+      },
+      {
+        "source": "scientific_sources/units/retained_synthetic/frozen/lma.py",
+        "kind": "expression",
+        "callable": "set_seed",
+        "args": [
+          42
+        ]
+      }
+    ]
+  },
+  "fixed_report": {
+    "evidence_layout": "units/fixed_residual/bundle/frozen/revision_2026/reviewer_completion_2026_09_08/conditional_residual",
+    "original_guards_preserved": true,
+    "entry_modes": [
+      "plan",
+      "preflight"
+    ],
+    "preflight_scope": "Metadata status gate, lock presence and context schema; not retained-report reproduction"
+  },
+  "table_export": {
+    "tables": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "12",
+      "13"
+    ],
+    "table_inputs": {
+      "4": "sequence",
+      "5": "matched",
+      "6": "core",
+      "7": "components",
+      "8": "components",
+      "9": "costs",
+      "12": "statistics",
+      "13": "statistics"
+    },
+    "input_schemas": {
+      "sequence": {
+        "rows_key": "procedures"
+      },
+      "matched": {
+        "rows_key": "procedures"
+      },
+      "core": {
+        "rows_key": "rows"
+      },
+      "components": {
+        "rows_key": "groups"
+      },
+      "costs": {
+        "rows_key": "rows"
+      },
+      "statistics": {
+        "rows_key": "results",
+        "additional_list_keys": [
+          "family_summaries"
+        ]
+      }
+    },
+    "preflight_scope": "User-supplied summary identities and JSON structure only; no aggregate arithmetic or output equivalence validation"
+  }
+}
