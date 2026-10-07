@@ -21,8 +21,6 @@ The source checker inspects bytes and syntax. Default entry modes print plans us
 
 The [v2026.09.16 release](https://github.com/brite0703/latent-mobius-attention/releases/tag/v2026.09.16), tag, assets and SHA256SUMS are preserved. Download its named 09_reviewer_records.zip, 12_training_inputs.zip, 13_training_completed.zip and 14_scientific_evidence.zip when their retained inputs are required. The GitHub source archive for this current commit contains code/guides; it does not replace those evidence assets.
 
-CITATION.cff continues to identify that dated evidence dataset under its historical title. Cite the fixed commit URL separately for this source update.
-
 The historical synthetic/receptor checks concern retained checkpoints/records. The historical CPU training example contains six fits and three choices. No new fitting, broad inference, profiling or numerical reanalysis was performed for this source publication. Full fresh all-comparison training and upstream molecular reconstruction remain unvalidated.
 
 At the earlier source/import validation stage, the full 692-contrast analysis ledger and native N20 input/result payloads were excluded. The approved saved-display addition below supplies only its stated scalar views and cell reference. Clean public source plans, bounded preflight and guarded definition imports are distinct from full scientific execution, which remains unvalidated. The table formatter's external aggregate/presentation inputs are excluded; export execution and output equivalence were not validated by these checks. [Validation](docs/VALIDATION.md) records the tested scope.
