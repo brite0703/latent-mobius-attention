@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "Please cite the versioned scientific evidence release used in your analysis."
-title: "Scientific evidence for Latent Möbius Attention: Bounded-Order Interaction Heads"
+title: "Scientific evidence for Latent Bounded-Order Interaction Attention (LBOIA)"
 type: dataset
 authors:
   - family-names: Huang
