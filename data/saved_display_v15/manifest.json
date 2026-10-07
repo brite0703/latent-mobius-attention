@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "publication_authorized": true,
+  "scope": "Minimum current saved-table extension; existing public09/14 supply curves and Tables1-8/10",
+  "files": {
+    "reference_cells.json": {
+      "bytes": 31706,
+      "sha256": "56e2bab349f5ffe0a7672e972e54b0ce1e1b858b9383f0877e1fbd5ae3d6c8fc"
+    },
+    "table_11.csv": {
+      "bytes": 497,
+      "sha256": "9fe37d70fc1bb5cf2a1aa6ea84ad533a7fa053922995c1f92588340aa10573bc"
+    },
+    "table_12.csv": {
+      "bytes": 1112,
+      "sha256": "a839c6719ace18a9866647c602a9b3ef29546179b31a6e89fbdb16438e89c214"
+    },
+    "table_13.csv": {
+      "bytes": 4078,
+      "sha256": "9dbb7b31c9bc2652865d40ea0f56368ea9cadf83c471c11b4370320f3fa6cccf"
+    },
+    "table_14.csv": {
+      "bytes": 848,
+      "sha256": "f705d5ff4d4a12b73e4f04351d6ef5b27a63384c74e8ab7a639f5b30524d664f"
+    },
+    "table_9.csv": {
+      "bytes": 19422,
+      "sha256": "0295a368a6ed1a1e19f3482f38ee054f36bc7dde179cb2ad4bf8fa33c99226d0"
+    }
+  },
+  "publication_state": "authorized; publisher upload and public availability not yet verified",
+  "repository": "https://github.com/brite0703/latent-mobius-attention",
+  "repository_relative_directory": "data/saved_display_v15",
+  "authorization_scope": "These five scalar CSV files, reference_cells.json and manifest.json only",
+  "authorization_date_utc": "2026-10-07",
+  "license_note": "No new MIT, CC or other blanket licence grant is added. Preserve applicable existing notices.",
+  "provenance": {
+    "basis": "Previously verified retained saved-display projection and v15 table cells",
+    "existing_public_release": "v2026.09.16",
+    "six_payloads_byte_identical_to_reviewed_candidate": true,
+    "table9": "Current 48-row projection of retained measurements; not new profiling",
+    "table11_14": "Saved clipping, multiplicity and native N20 display fields; not new experiments",
+    "reference_cells": "Table display cells and labels/page metadata only; no manuscript prose",
+    "new_training": false,
+    "new_model_inference": false,
+    "new_inferential_statistics": false,
+    "full_raw_reproduction_asserted": false
+  }
+}

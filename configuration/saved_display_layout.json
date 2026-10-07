@@ -1,0 +1,215 @@
+{
+  "tables": {
+    "4": {
+      "heads": [
+        [
+          "deepsets_plain70",
+          "Sum70"
+        ],
+        [
+          "lma1",
+          "$k=1$"
+        ],
+        [
+          "lma2",
+          "$k=2$"
+        ],
+        [
+          "additive2",
+          "Additive2"
+        ],
+        [
+          "cp_pool",
+          "CP79"
+        ]
+      ],
+      "settings": [
+        "ligand_only",
+        "ligand_sequence"
+      ]
+    },
+    "5": {
+      "heads": [
+        [
+          "deepsets_plain70",
+          "Sum70"
+        ],
+        [
+          "lma1",
+          "$k=1$"
+        ],
+        [
+          "lma2",
+          "$k=2$"
+        ],
+        [
+          "additive2",
+          "Additive2"
+        ],
+        [
+          "cp_pool",
+          "CP79"
+        ]
+      ],
+      "settings": [
+        "ligand_only",
+        "ligand_sequence",
+        "ligand_contact"
+      ]
+    },
+    "6": {
+      "heads": [
+        [
+          "mean_count",
+          "Mean + count"
+        ],
+        [
+          "pma",
+          "PMA"
+        ],
+        [
+          "pma_count",
+          "PMA + log-count"
+        ],
+        [
+          "deepsets",
+          "LN-sum Deep Sets, $w=35$"
+        ],
+        [
+          "deepsets_wide",
+          "LN-sum Deep Sets, $w=70$"
+        ],
+        [
+          "deepsets_raw35",
+          "Plain sum Deep Sets, $w=35$"
+        ],
+        [
+          "deepsets_raw70",
+          "Plain sum Deep Sets, $w=70$"
+        ],
+        [
+          "deepsets_count35",
+          "LN-sum Deep Sets + count, $w=35$"
+        ],
+        [
+          "deepsets_count70",
+          "LN-sum Deep Sets + count, $w=70$"
+        ],
+        [
+          "janossy2",
+          "Janossy-2 readout"
+        ],
+        [
+          "dcnv2",
+          "DCN-V2 readout"
+        ],
+        [
+          "cp_pool",
+          "CP readout"
+        ],
+        [
+          "lma1",
+          "LBOIA $k=1$"
+        ],
+        [
+          "lma2",
+          "LBOIA $k=2$"
+        ],
+        [
+          "lma3",
+          "LBOIA $k=3$"
+        ],
+        [
+          "additive2",
+          "Additive $k=2$"
+        ]
+      ]
+    },
+    "7": {
+      "procedures": [
+        [
+          "learned0",
+          "Learned routing, $\\lambda_{\\rm bal}=0$"
+        ],
+        [
+          "learned001",
+          "Learned routing, $\\lambda_{\\rm bal}=0.01$"
+        ],
+        [
+          "learned01",
+          "Learned routing, $\\lambda_{\\rm bal}=0.1$"
+        ],
+        [
+          "fixed",
+          "Fixed random-feature routing"
+        ],
+        [
+          "uniform",
+          "Uniform routing"
+        ],
+        [
+          "noquery",
+          "Query-free readout"
+        ]
+      ]
+    },
+    "8": {
+      "declared_memory_tokens": [
+        [
+          4,
+          [
+            4,
+            10,
+            14
+          ]
+        ],
+        [
+          8,
+          [
+            8,
+            36,
+            92
+          ]
+        ],
+        [
+          16,
+          [
+            16,
+            136,
+            696
+          ]
+        ]
+      ]
+    },
+    "9": {
+      "settings": {
+        "GCN1": "GCN1",
+        "GCN3": "GCN3",
+        "ligand_only": "Ligand",
+        "ligand_sequence": "Ligand + sequence",
+        "ligand_contact": "Ligand + contact",
+        "sequence_only": "Sequence"
+      },
+      "heads": {
+        "additive2": "Additive 2",
+        "cp_pool": "CP",
+        "dcnv2": "DCN V2",
+        "deepsets": "LN sum 35",
+        "deepsets_count35": "LN sum + count 35",
+        "deepsets_count70": "LN sum + count 70",
+        "deepsets_raw35": "Plain sum 35",
+        "deepsets_raw70": "Plain sum 70",
+        "deepsets_wide": "LN sum 70",
+        "deepsets_plain70": "Plain sum 70",
+        "janossy2": "Janossy 2",
+        "lma1": "LBOIA 1",
+        "lma2": "LBOIA 2",
+        "lma3": "LBOIA 3",
+        "mean_count": "Count + mean",
+        "pma": "PMA",
+        "pma_count": "PMA + count",
+        "none": "Sequence only"
+      }
+    }
+  }
+}

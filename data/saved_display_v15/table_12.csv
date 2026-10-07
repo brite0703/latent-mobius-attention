@@ -1,0 +1,15 @@
+family,scope,m,t_Holm_below_005,sign_flip_Holm_below_005
+F01_order2_order1,Selected order-2/order-1 endpoints; not exhaustive,22,0,0
+F02_synthetic,"Synthetic controls, including LN/plain and wider sum",97,12,0
+F03_molecular_controls,"Molecular controls, including width/matched and depth",71,0,0
+F04_component_width,All component/width outcome contrasts,22,0,0
+F05_routing_diagnostics,"Load, entropy and soft/hard coassignment endpoints",40,2,0
+F06_sequence_full19,Full-cohort sequence: original descriptive list,19,0,0
+F07_matched_full30,Matched cohort: original descriptive list,30,0,0
+F08_sequence_all171,Sequence comparisons on nine locked subsets,171,0,0
+F09_matched_all270,Matched comparisons on nine locked subsets,270,0,0
+F10_frozen_residual6,All frozen correction contrasts: cubic and contact,6,1,2
+F11_gate_readout7,"All gate/readout contrasts, including legacy2/legacy1",7,0,0
+F12_clipping4,Clipping one versus ten at all four parity lengths,4,0,0
+F13_fixed_diagnostics4,All fixed fitting/validation diagnostics,4,0,0
+F00_global_union,"Union of unique endpoints, deduplicated",692,11,0

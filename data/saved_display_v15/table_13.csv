@@ -1,0 +1,21 @@
+id,label,context,contrast,metric,family,n,mean_difference,t_reference_interval95,t_p_raw,family_t_p_Holm,family_sign_flip_p_Holm,global_t_p_Holm
+C0008,Cubic native: 2 - 1,first_cubic/cubic,lma2 minus lma1,mse,F01_order2_order1,10,-0.11097486307226316,"[-0.25706165368446554, 0.03511192753993923]",0.11983664990706645,1.0,1.0,1.0
+C0001,Cubic native: 2 - additive,first_cubic/cubic,lma2 minus additive2,mse,F02_synthetic,10,-0.061929816317373376,"[-0.21729929024595762, 0.09343965761121087]",0.39071395494370065,1.0,1.0,1.0
+C0003,Cubic native: 2 - CP,first_cubic/cubic,lma2 minus cp_pool,mse,F02_synthetic,10,0.1351424685513651,"[0.049042776861844065, 0.22124216024088617]",0.006209153648083156,0.49673229184665246,0.92578125,1.0
+C0112,GCN3 native: 2 - 1,original_gcn/d3,lma2 minus lma1,rmse,F01_order2_order1,5,0.045707595303665235,"[0.017794125221060324, 0.07362106538627014]",0.010446477932845612,0.22982251452260347,1.0,1.0
+C0166,Routing: uniform - learned 2,component/width,m8_k2_uniform minus m8_k2_learned0,rmse,F04_component_width,5,-0.014002923417942802,"[-0.037605816658959325, 0.00959996982307372]",0.17486522878589866,1.0,1.0,1.0
+C0256,Full sequence joint: 2 - 1,sequence/full,ligand_sequence_lma2_minus_lma1,rmse,F06_sequence_full19,5,-0.057875477413257624,"[-0.25642512242299137, 0.1406741675964761]",0.46372881013892986,1.0,1.0,1.0
+C0274,Full sequence joint: 2 - CP,sequence/full,ligand_sequence_lma2_minus_cp_pool,rmse,F06_sequence_full19,5,-0.14145916934524,"[-0.22456273745076458, -0.05835560123971542]",0.009130514969018526,0.16434926944233347,1.0,1.0
+C0463,Matched contact: 2 - 1,matched/full,ligand_contact_lma2_minus_lma1,rmse,F07_matched_full30,5,-0.02586955348427882,"[-0.12197739583251012, 0.07023828886395249]",0.4963958733313309,1.0,1.0,1.0
+C0427,Matched sequence: 2 - 1,matched/full,ligand_sequence_lma2_minus_lma1,rmse,F07_matched_full30,5,-0.03722534791623393,"[-0.18947520141940782, 0.11502450558693995]",0.5344828586357631,1.0,1.0,1.0
+C0310,Full order 2: joint - ligand,sequence/full,lma2_joint_minus_ligand,rmse,F06_sequence_full19,5,0.04595976246494837,"[-0.06223255185958616, 0.1541520767894829]",0.3035869189245496,1.0,1.0,1.0
+C0661,Cubic frozen: product - additive,cubic,product minus additive,mse,F10_frozen_residual6,10,-0.020040037025691827,"[-0.03713943618249187, -0.002940637868891788]",0.02642471472127937,0.10569885888511749,0.078125,1.0
+C0662,Cubic frozen: product - parent,cubic,product minus baseline,mse,F10_frozen_residual6,10,-0.1060330310597611,"[-0.1499646885788556, -0.062101373540666596]",0.00040046749872736225,0.0024028049923641736,0.01171875,0.27191743163587895
+C0663,Cubic frozen: product - pair-MLP,cubic,product minus pair_mlp,mse,F10_frozen_residual6,10,-0.03907348906086226,"[-0.06849378885321053, -0.009653189268513988]",0.014850024607867343,0.07425012303933672,0.0390625,1.0
+C0664,Contact frozen: product - additive,ligand_contact,product minus additive,rmse,F10_frozen_residual6,5,0.0,null,1.0,1.0,1.0,1.0
+C0665,Contact frozen: product - parent,ligand_contact,product minus baseline,rmse,F10_frozen_residual6,5,0.0,null,1.0,1.0,1.0,1.0
+C0666,Contact frozen: product - pair-MLP,ligand_contact,product minus pair_mlp,rmse,F10_frozen_residual6,5,0.0,null,1.0,1.0,1.0,1.0
+C0674,Fixed fitting: joint - ligand,fusion_lma2,joint minus ligand_only,rmse,F13_fixed_diagnostics4,5,-0.29721230604078475,"[-0.4887151906702313, -0.10570942141133821]",0.012555555771479881,0.050222223085919525,0.25,1.0
+C0675,Fixed validation: joint - ligand,fusion_lma2,joint minus ligand_only,rmse,F13_fixed_diagnostics4,5,0.00940863808933643,"[-0.03359142856862311, 0.052408704747295976]",0.5763177253458764,1.0,1.0,1.0
+C0676,Fixed fitting: learned - uniform,routing,learned minus uniform,rmse,F13_fixed_diagnostics4,5,-0.0028979112899123914,"[-0.011567081892557372, 0.005771259312732588]",0.40588713065397164,1.0,1.0,1.0
+C0677,Fixed validation: learned - uniform,routing,learned minus uniform,rmse,F13_fixed_diagnostics4,5,0.0023038079731961146,"[-0.012423372953519172, 0.0170309888999114]",0.6864538319976159,1.0,1.0,1.0
