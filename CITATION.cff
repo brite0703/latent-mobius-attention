@@ -6,8 +6,6 @@ authors:
   - family-names: Huang
     given-names: Jih-Jeng
     orcid: "https://orcid.org/0000-0002-7965-7165"
-  - family-names: Chen
-    given-names: Chin-Yi
 version: "v2026.09.16"
 date-released: 2026-09-16
 url: "https://github.com/brite0703/latent-mobius-attention/releases/tag/v2026.09.16"
