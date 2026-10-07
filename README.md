@@ -1,6 +1,6 @@
 # Latent Bounded-Order Interaction Attention (LBOIA)
 
-Bounded public entry update, 7 October 2026, based on source commit 50472812494054d3c8ea03efe256f3b3b2e47bdf. This is the approved descriptive name for the unchanged architecture previously called Latent Möbius Attention (LMA). Historical paths, modules, checkpoint identifiers and release v2026.09.16 retain their identities.
+Bounded public entry update, 7 October 2026, based on source commit 50472812494054d3c8ea03efe256f3b3b2e47bdf. J.-J. Huang. Scientific evidence for Latent Bounded-Order Interaction Attention (LBOIA). GitHub, version v2026.09.16, 2026.
 
 Original study programs are directly inspectable under scientific_sources. New public entries provide plans, bounded preflight checks and guarded N20 definition imports. configuration records environments, entrypoints, source identities and result crosswalks. See docs for acquisition, commands, validation and publication scope.
 
